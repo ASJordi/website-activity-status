@@ -28,6 +28,11 @@ sites:
     assignees:
       - ASJordi
 
+  - name: URL Shortener API
+    url: https://url-short.up.railway.app
+    assignees:
+      - ASJordi
+
   - name: API Words
     url: https://api-words.up.railway.app
     assignees:
