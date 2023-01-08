@@ -23,13 +23,18 @@ sites:
     assignees:
       - ASJordi
 
+  - name: URL Shortener API
+    url: https://url-short.up.railway.app
+    assignees:
+      - ASJordi
+
   - name: Weather App
     url: https://weather-app-nodejs.netlify.app
     assignees:
       - ASJordi
 
-  - name: URL Shortener API
-    url: https://url-short.up.railway.app
+  - name: Weather App API
+    url: https://weather-app-js.up.railway.app
     assignees:
       - ASJordi
 
