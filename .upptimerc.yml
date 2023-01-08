@@ -28,6 +28,11 @@ sites:
     assignees:
       - ASJordi
 
+  - name: API Words
+    url: https://api-words.up.railway.app
+    assignees:
+      - ASJordi
+
 status-website:
   baseUrl: /website-activity-status
   name: Website Activity Status
