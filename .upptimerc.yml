@@ -34,7 +34,7 @@ sites:
       - ASJordi
 
   - name: Weather App API
-    url: https://weather-app-js.up.railway.app
+    url: https://weather-app-js.up.railway.app/api
     assignees:
       - ASJordi
 
