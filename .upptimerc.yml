@@ -9,7 +9,7 @@ sites:
       - ASJordi
 
   - name: ASJordi's Website v2
-    url: https://personal-website-asjordi.web.app/
+    url: https://v2.asjordi.dev
     assignees:
       - ASJordi
 
