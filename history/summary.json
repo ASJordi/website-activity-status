@@ -76,10 +76,10 @@
     "url": "https://url-short.up.railway.app",
     "icon": "https://icons.duckduckgo.com/ip3/url-short.up.railway.app.ico",
     "slug": "url-shortener-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
@@ -87,7 +87,9 @@
     "timeWeek": 206,
     "timeMonth": 218,
     "timeYear": 218,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "Weather App",
@@ -112,18 +114,19 @@
     "url": "https://weather-app-js.up.railway.app/api",
     "icon": "https://icons.duckduckgo.com/ip3/weather-app-js.up.railway.app.ico",
     "slug": "weather-app-api",
-    "status": "up",
-    "uptime": "58.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "58.70%",
-    "uptimeYear": "58.70%",
+    "status": "down",
+    "uptime": "59.46%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "59.46%",
+    "uptimeYear": "59.46%",
     "time": 225,
     "timeDay": 224,
     "timeWeek": 201,
     "timeMonth": 225,
     "timeYear": 225,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2023-01-15": 126,
       "2023-01-14": 1440,
       "2023-01-13": 1440,
@@ -139,9 +142,9 @@
     "url": "https://api-words.up.railway.app",
     "icon": "https://icons.duckduckgo.com/ip3/api-words.up.railway.app.ico",
     "slug": "api-words",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -150,6 +153,8 @@
     "timeWeek": 210,
     "timeMonth": 219,
     "timeYear": 219,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   }
 ]
