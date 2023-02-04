@@ -8,11 +8,6 @@ sites:
     assignees:
       - ASJordi
 
-  - name: ASJordi's Website v2
-    url: https://v2.asjordi.dev
-    assignees:
-      - ASJordi
-
   - name: ASJordi's Links
     url: https://asjordi.link
     assignees:
