@@ -39,16 +39,16 @@ sites:
       - ASJordi
 
 status-website:
-  baseUrl: /website-activity-status
   name: Website Activity Status
+  cname: up.asjordi.dev # Custom CNAME
+  logoUrl: https://raw.githubusercontent.com/ASJordi/website-activity-status/master/assets/status.png
+  favicon: https://raw.githubusercontent.com/ASJordi/website-activity-status/master/assets/status.png
+  theme: night
   introMessage: Status page which uses real-time data from our GitHub repository. No server required — just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Live Status
       href: https://asjordi.github.io/website-activity-status
     - title: GitHub Repo
       href: https://github.com/$OWNER/$REPO
-  theme: night
-  logoUrl: https://raw.githubusercontent.com/ASJordi/website-activity-status/master/assets/status.png
-  favicon: https://raw.githubusercontent.com/ASJordi/website-activity-status/master/assets/status.png
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
