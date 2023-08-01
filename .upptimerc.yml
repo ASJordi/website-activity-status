@@ -19,7 +19,7 @@ sites:
       - ASJordi
 
   - name: URL Shortener API
-    url: https://url-short.up.railway.app
+    url: https://api-url-zgau.onrender.com/
     assignees:
       - ASJordi
 
@@ -34,7 +34,7 @@ sites:
       - ASJordi
 
   - name: API Words
-    url: https://api-words.up.railway.app
+    url: https://simple-api-words.onrender.com
     assignees:
       - ASJordi
 
