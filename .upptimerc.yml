@@ -29,7 +29,7 @@ sites:
       - ASJordi
 
   - name: Weather App API
-    url: https://weather-app-js.up.railway.app/api
+    url: https://weather-app-backend-y96o.onrender.com/api/
     assignees:
       - ASJordi
 
