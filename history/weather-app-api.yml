@@ -1,7 +1,7 @@
 url: https://weather-app-backend-y96o.onrender.com/api/
-status: down
-code: 502
-responseTime: 178
-lastUpdated: 2023-08-05T04:19:56.126Z
+status: up
+code: 200
+responseTime: 26362
+lastUpdated: 2023-08-05T05:17:03.915Z
 startTime: Sun Jan 08 2023 02:18:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
