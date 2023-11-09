@@ -63,12 +63,12 @@
     "status": "up",
     "uptime": "89.48%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.99%",
+    "uptimeWeek": "99.02%",
     "uptimeMonth": "50.40%",
     "uptimeYear": "89.48%",
     "time": 4172,
     "timeDay": 8872,
-    "timeWeek": 7842,
+    "timeWeek": 6966,
     "timeMonth": 5633,
     "timeYear": 4172,
     "dailyMinutesDown": {
@@ -163,19 +163,19 @@
     "url": "https://weather-app-backend-y96o.onrender.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/weather-app-backend-y96o.onrender.com.ico",
     "slug": "weather-app-api",
-    "status": "up",
-    "uptime": "84.52%",
-    "uptimeDay": "97.24%",
-    "uptimeWeek": "97.86%",
-    "uptimeMonth": "50.59%",
-    "uptimeYear": "84.52%",
+    "status": "down",
+    "uptime": "84.54%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "97.84%",
+    "uptimeMonth": "50.74%",
+    "uptimeYear": "84.54%",
     "time": 4018,
-    "timeDay": 17507,
-    "timeWeek": 8161,
-    "timeMonth": 6281,
+    "timeDay": 16584,
+    "timeWeek": 8481,
+    "timeMonth": 6182,
     "timeYear": 4018,
     "dailyMinutesDown": {
-      "2023-11-09": 31,
+      "2023-11-09": 33,
       "2023-11-08": 25,
       "2023-11-06": 51,
       "2023-11-03": 88,
@@ -259,8 +259,7 @@
       "2023-08-14": 271,
       "2023-08-13": 71,
       "2023-08-12": 84,
-      "2023-08-11": 154,
-      "2023-08-10": 65
+      "2023-08-11": 154
     }
   },
   {
@@ -268,18 +267,19 @@
     "url": "https://simple-api-words.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/simple-api-words.onrender.com.ico",
     "slug": "api-words",
-    "status": "up",
-    "uptime": "84.52%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "84.53%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.00%",
     "uptimeMonth": "50.80%",
-    "uptimeYear": "84.52%",
+    "uptimeYear": "84.53%",
     "time": 3664,
     "timeDay": 978,
     "timeWeek": 5136,
     "timeMonth": 5729,
     "timeYear": 3664,
     "dailyMinutesDown": {
+      "2023-11-09": 0,
       "2023-11-07": 16,
       "2023-11-06": 26,
       "2023-11-05": 17,
@@ -368,8 +368,7 @@
       "2023-08-12": 137,
       "2023-08-11": 133,
       "2023-08-10": 92,
-      "2023-08-08": 132,
-      "2023-08-07": 60
+      "2023-08-08": 132
     }
   }
 ]
