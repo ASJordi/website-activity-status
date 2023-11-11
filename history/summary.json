@@ -60,18 +60,19 @@
     "url": "https://api-url-zgau.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api-url-zgau.onrender.com.ico",
     "slug": "url-shortener-api",
-    "status": "up",
-    "uptime": "89.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.91%",
+    "status": "down",
+    "uptime": "89.57%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "98.89%",
     "uptimeMonth": "50.41%",
-    "uptimeYear": "89.55%",
+    "uptimeYear": "89.57%",
     "time": 4267,
     "timeDay": 15319,
     "timeWeek": 7462,
     "timeMonth": 6188,
     "timeYear": 4267,
     "dailyMinutesDown": {
+      "2023-11-11": 2,
       "2023-11-10": 43,
       "2023-11-07": 18,
       "2023-11-06": 26,
@@ -136,8 +137,7 @@
       "2023-09-06": 223,
       "2023-09-05": 199,
       "2023-09-04": 160,
-      "2023-09-03": 265,
-      "2023-09-02": 69
+      "2023-09-03": 265
     }
   },
   {
@@ -164,11 +164,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/weather-app-backend-y96o.onrender.com.ico",
     "slug": "weather-app-api",
     "status": "up",
-    "uptime": "84.64%",
+    "uptime": "84.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.52%",
     "uptimeMonth": "50.85%",
-    "uptimeYear": "84.64%",
+    "uptimeYear": "84.65%",
     "time": 4083,
     "timeDay": 25328,
     "timeWeek": 9665,
@@ -268,15 +268,15 @@
     "url": "https://simple-api-words.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/simple-api-words.onrender.com.ico",
     "slug": "api-words",
-    "status": "up",
-    "uptime": "84.62%",
-    "uptimeDay": "98.52%",
-    "uptimeWeek": "99.18%",
+    "status": "down",
+    "uptime": "84.64%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.20%",
     "uptimeMonth": "51.40%",
-    "uptimeYear": "84.62%",
+    "uptimeYear": "84.64%",
     "time": 3697,
     "timeDay": 3856,
-    "timeWeek": 4821,
+    "timeWeek": 5031,
     "timeMonth": 5136,
     "timeYear": 3697,
     "dailyMinutesDown": {
@@ -369,7 +369,7 @@
       "2023-08-12": 137,
       "2023-08-11": 133,
       "2023-08-10": 92,
-      "2023-08-08": 132
+      "2023-08-08": 59
     }
   }
 ]
