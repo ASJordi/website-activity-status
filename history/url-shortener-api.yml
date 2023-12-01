@@ -1,7 +1,7 @@
 url: https://api-url-zgau.onrender.com/
-status: down
-code: 503
-responseTime: 184
-lastUpdated: 2023-11-30T23:12:56.375Z
+status: up
+code: 200
+responseTime: 24080
+lastUpdated: 2023-12-01T01:36:17.586Z
 startTime: 2023-01-08T02:18:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
