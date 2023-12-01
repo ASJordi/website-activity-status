@@ -60,11 +60,11 @@
     "url": "https://api-url-zgau.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api-url-zgau.onrender.com.ico",
     "slug": "url-shortener-api",
-    "status": "up",
+    "status": "down",
     "uptime": "86.19%",
-    "uptimeDay": "4.88%",
-    "uptimeWeek": "0.70%",
-    "uptimeMonth": "55.42%",
+    "uptimeDay": "11.74%",
+    "uptimeWeek": "1.68%",
+    "uptimeMonth": "55.44%",
     "uptimeYear": "86.19%",
     "time": 4179,
     "timeDay": 8155,
@@ -72,7 +72,7 @@
     "timeMonth": 5603,
     "timeYear": 4179,
     "dailyMinutesDown": {
-      "2023-12-01": 107,
+      "2023-12-01": 99,
       "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
@@ -180,19 +180,19 @@
     "url": "https://weather-app-backend-y96o.onrender.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/weather-app-backend-y96o.onrender.com.ico",
     "slug": "weather-app-api",
-    "status": "up",
-    "uptime": "81.56%",
-    "uptimeDay": "5.61%",
-    "uptimeWeek": "0.80%",
-    "uptimeMonth": "55.53%",
-    "uptimeYear": "81.56%",
+    "status": "down",
+    "uptime": "81.58%",
+    "uptimeDay": "11.82%",
+    "uptimeWeek": "1.69%",
+    "uptimeMonth": "55.52%",
+    "uptimeYear": "81.58%",
     "time": 4086,
     "timeDay": 11246,
     "timeWeek": 2987,
     "timeMonth": 6042,
     "timeYear": 4086,
     "dailyMinutesDown": {
-      "2023-12-01": 97,
+      "2023-12-01": 99,
       "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
@@ -292,7 +292,7 @@
       "2023-08-18": 1440,
       "2023-08-17": 1440,
       "2023-08-16": 337,
-      "2023-08-14": 131
+      "2023-08-14": 68
     }
   },
   {
@@ -300,12 +300,12 @@
     "url": "https://simple-api-words.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/simple-api-words.onrender.com.ico",
     "slug": "api-words",
-    "status": "up",
-    "uptime": "81.55%",
-    "uptimeDay": "5.58%",
-    "uptimeWeek": "0.80%",
+    "status": "down",
+    "uptime": "81.57%",
+    "uptimeDay": "11.89%",
+    "uptimeWeek": "1.70%",
     "uptimeMonth": "55.73%",
-    "uptimeYear": "81.55%",
+    "uptimeYear": "81.57%",
     "time": 3637,
     "timeDay": 13185,
     "timeWeek": 3494,
@@ -414,8 +414,7 @@
       "2023-08-16": 222,
       "2023-08-15": 22,
       "2023-08-14": 137,
-      "2023-08-13": 180,
-      "2023-08-12": 67
+      "2023-08-13": 180
     }
   }
 ]
