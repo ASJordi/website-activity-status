@@ -62,8 +62,8 @@
     "slug": "url-shortener-api",
     "status": "up",
     "uptime": "86.23%",
-    "uptimeDay": "43.95%",
-    "uptimeWeek": "6.28%",
+    "uptimeDay": "48.51%",
+    "uptimeWeek": "6.93%",
     "uptimeMonth": "55.27%",
     "uptimeYear": "86.23%",
     "time": 4154,
@@ -181,8 +181,8 @@
     "slug": "weather-app-api",
     "status": "up",
     "uptime": "81.60%",
-    "uptimeDay": "47.66%",
-    "uptimeWeek": "6.81%",
+    "uptimeDay": "52.21%",
+    "uptimeWeek": "7.46%",
     "uptimeMonth": "55.48%",
     "uptimeYear": "81.60%",
     "time": 4104,
@@ -299,12 +299,12 @@
     "url": "https://simple-api-words.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/simple-api-words.onrender.com.ico",
     "slug": "api-words",
-    "status": "up",
-    "uptime": "81.58%",
-    "uptimeDay": "47.52%",
-    "uptimeWeek": "6.79%",
+    "status": "down",
+    "uptime": "81.60%",
+    "uptimeDay": "52.06%",
+    "uptimeWeek": "7.44%",
     "uptimeMonth": "55.68%",
-    "uptimeYear": "81.58%",
+    "uptimeYear": "81.60%",
     "time": 3625,
     "timeDay": 6663,
     "timeWeek": 2823,
@@ -413,7 +413,7 @@
       "2023-08-16": 222,
       "2023-08-15": 22,
       "2023-08-14": 137,
-      "2023-08-13": 180
+      "2023-08-13": 110
     }
   }
 ]
