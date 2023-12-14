@@ -64,12 +64,12 @@
     "uptime": "86.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.69%",
-    "uptimeMonth": "55.08%",
+    "uptimeMonth": "55.12%",
     "uptimeYear": "86.86%",
     "time": 4083,
     "timeDay": 352,
     "timeWeek": 2683,
-    "timeMonth": 2658,
+    "timeMonth": 2688,
     "timeYear": 4083,
     "dailyMinutesDown": {
       "2023-12-13": 25,
@@ -190,7 +190,7 @@
     "time": 4074,
     "timeDay": 279,
     "timeWeek": 1334,
-    "timeMonth": 3828,
+    "timeMonth": 3883,
     "timeYear": 4074,
     "dailyMinutesDown": {
       "2023-12-12": 43,
@@ -289,15 +289,15 @@
     "url": "https://simple-api-words.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/simple-api-words.onrender.com.ico",
     "slug": "api-words",
-    "status": "up",
-    "uptime": "86.77%",
-    "uptimeDay": "91.71%",
+    "status": "down",
+    "uptime": "86.78%",
+    "uptimeDay": "91.69%",
     "uptimeWeek": "97.24%",
     "uptimeMonth": "55.22%",
-    "uptimeYear": "86.77%",
+    "uptimeYear": "86.78%",
     "time": 3839,
-    "timeDay": 3990,
-    "timeWeek": 3756,
+    "timeDay": 4607,
+    "timeWeek": 3942,
     "timeMonth": 5069,
     "timeYear": 3839,
     "dailyMinutesDown": {
@@ -387,8 +387,7 @@
       "2023-09-06": 209,
       "2023-09-05": 68,
       "2023-09-04": 89,
-      "2023-09-03": 166,
-      "2023-09-02": 18
+      "2023-09-03": 166
     }
   }
 ]
