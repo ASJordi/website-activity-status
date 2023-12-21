@@ -62,9 +62,9 @@
     "slug": "url-shortener-api",
     "status": "up",
     "uptime": "87.11%",
-    "uptimeDay": "97.54%",
+    "uptimeDay": "97.82%",
     "uptimeWeek": "97.38%",
-    "uptimeMonth": "65.77%",
+    "uptimeMonth": "65.89%",
     "uptimeYear": "87.11%",
     "time": 4084,
     "timeDay": 221,
@@ -185,18 +185,19 @@
     "url": "https://weather-app-backend-y96o.onrender.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/weather-app-backend-y96o.onrender.com.ico",
     "slug": "weather-app-api",
-    "status": "up",
-    "uptime": "87.11%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "96.29%",
-    "uptimeMonth": "65.74%",
-    "uptimeYear": "87.11%",
+    "status": "down",
+    "uptime": "87.12%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "96.28%",
+    "uptimeMonth": "65.86%",
+    "uptimeYear": "87.12%",
     "time": 4067,
     "timeDay": 380,
     "timeWeek": 3775,
     "timeMonth": 3677,
     "timeYear": 4067,
     "dailyMinutesDown": {
+      "2023-12-21": 1,
       "2023-12-20": 19,
       "2023-12-19": 48,
       "2023-12-18": 68,
@@ -286,8 +287,7 @@
       "2023-09-12": 220,
       "2023-09-11": 35,
       "2023-09-10": 121,
-      "2023-09-09": 107,
-      "2023-09-08": 40
+      "2023-09-09": 107
     }
   },
   {
@@ -297,9 +297,9 @@
     "slug": "api-words",
     "status": "up",
     "uptime": "86.89%",
-    "uptimeDay": "95.83%",
-    "uptimeWeek": "88.73%",
-    "uptimeMonth": "64.04%",
+    "uptimeDay": "96.61%",
+    "uptimeWeek": "88.83%",
+    "uptimeMonth": "64.18%",
     "uptimeYear": "86.89%",
     "time": 3872,
     "timeDay": 1675,
@@ -307,7 +307,6 @@
     "timeMonth": 5367,
     "timeYear": 3872,
     "dailyMinutesDown": {
-      "2023-12-21": 10,
       "2023-12-20": 49,
       "2023-12-19": 40,
       "2023-12-18": 88,
@@ -397,7 +396,7 @@
       "2023-09-10": 134,
       "2023-09-09": 48,
       "2023-09-08": 72,
-      "2023-09-06": 128
+      "2023-09-06": 147
     }
   }
 ]
