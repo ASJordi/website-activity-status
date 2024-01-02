@@ -63,7 +63,7 @@
     "status": "up",
     "uptime": "84.66%",
     "uptimeDay": "98.62%",
-    "uptimeWeek": "16.58%",
+    "uptimeWeek": "17.57%",
     "uptimeMonth": "64.11%",
     "uptimeYear": "84.66%",
     "time": 4049,
@@ -199,7 +199,7 @@
     "status": "up",
     "uptime": "84.64%",
     "uptimeDay": "98.34%",
-    "uptimeWeek": "15.82%",
+    "uptimeWeek": "16.81%",
     "uptimeMonth": "63.83%",
     "uptimeYear": "84.64%",
     "time": 3975,
@@ -317,12 +317,12 @@
     "url": "https://simple-api-words.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/simple-api-words.onrender.com.ico",
     "slug": "api-words",
-    "status": "up",
-    "uptime": "84.43%",
-    "uptimeDay": "96.77%",
-    "uptimeWeek": "15.60%",
+    "status": "down",
+    "uptime": "84.45%",
+    "uptimeDay": "97.37%",
+    "uptimeWeek": "16.58%",
     "uptimeMonth": "62.15%",
-    "uptimeYear": "84.43%",
+    "uptimeYear": "84.45%",
     "time": 3840,
     "timeDay": 5259,
     "timeWeek": 3938,
@@ -429,8 +429,7 @@
       "2023-09-12": 73,
       "2023-09-11": 172,
       "2023-09-10": 134,
-      "2023-09-09": 48,
-      "2023-09-08": 72
+      "2023-09-09": 48
     }
   }
 ]
