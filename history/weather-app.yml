@@ -1,7 +1,7 @@
 url: https://weather-app-nodejs.netlify.app
-status: down
-code: 500
-responseTime: 3031
-lastUpdated: 2024-01-03T17:16:26.909Z
+status: up
+code: 200
+responseTime: 32
+lastUpdated: 2024-01-03T17:29:01.432Z
 startTime: 2022-12-25T21:15:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
