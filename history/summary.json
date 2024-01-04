@@ -60,18 +60,19 @@
     "url": "https://api-url-zgau.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api-url-zgau.onrender.com.ico",
     "slug": "url-shortener-api",
-    "status": "up",
-    "uptime": "84.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "44.40%",
-    "uptimeMonth": "64.45%",
-    "uptimeYear": "84.74%",
+    "status": "down",
+    "uptime": "84.76%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "44.91%",
+    "uptimeMonth": "64.44%",
+    "uptimeYear": "84.76%",
     "time": 4025,
     "timeDay": 1214,
     "timeWeek": 2299,
     "timeMonth": 3479,
     "timeYear": 4025,
     "dailyMinutesDown": {
+      "2024-01-04": 1,
       "2024-01-01": 58,
       "2023-12-31": 1440,
       "2023-12-30": 1440,
@@ -170,7 +171,7 @@
       "2023-09-16": 688,
       "2023-09-15": 110,
       "2023-09-14": 138,
-      "2023-09-13": 289
+      "2023-09-13": 213
     }
   },
   {
@@ -197,18 +198,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/weather-app-backend-y96o.onrender.com.ico",
     "slug": "weather-app-api",
     "status": "up",
-    "uptime": "84.74%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "42.29%",
-    "uptimeMonth": "63.74%",
-    "uptimeYear": "84.74%",
+    "uptime": "84.73%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "42.93%",
+    "uptimeMonth": "63.77%",
+    "uptimeYear": "84.73%",
     "time": 4029,
     "timeDay": 8860,
     "timeWeek": 4553,
     "timeMonth": 3267,
     "timeYear": 4029,
     "dailyMinutesDown": {
-      "2024-01-04": 11,
       "2024-01-03": 80,
       "2024-01-02": 70,
       "2024-01-01": 109,
@@ -309,7 +309,7 @@
       "2023-09-15": 82,
       "2023-09-14": 149,
       "2023-09-13": 71,
-      "2023-09-12": 158
+      "2023-09-12": 220
     }
   },
   {
@@ -319,8 +319,8 @@
     "slug": "api-words",
     "status": "up",
     "uptime": "84.54%",
-    "uptimeDay": "97.08%",
-    "uptimeWeek": "42.81%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "43.34%",
     "uptimeMonth": "62.14%",
     "uptimeYear": "84.54%",
     "time": 3874,
