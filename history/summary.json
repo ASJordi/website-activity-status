@@ -60,19 +60,19 @@
     "url": "https://api-url-zgau.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api-url-zgau.onrender.com.ico",
     "slug": "url-shortener-api",
-    "status": "up",
-    "uptime": "84.84%",
-    "uptimeDay": "95.81%",
-    "uptimeWeek": "62.02%",
+    "status": "down",
+    "uptime": "84.85%",
+    "uptimeDay": "95.78%",
+    "uptimeWeek": "63.39%",
     "uptimeMonth": "64.42%",
-    "uptimeYear": "84.84%",
+    "uptimeYear": "84.85%",
     "time": 4020,
     "timeDay": 5461,
     "timeWeek": 2890,
     "timeMonth": 3486,
     "timeYear": 4020,
     "dailyMinutesDown": {
-      "2024-01-05": 24,
+      "2024-01-05": 25,
       "2024-01-04": 60,
       "2024-01-01": 58,
       "2023-12-31": 1440,
@@ -171,7 +171,7 @@
       "2023-09-17": 1440,
       "2023-09-16": 688,
       "2023-09-15": 110,
-      "2023-09-14": 138
+      "2023-09-14": 69
     }
   },
   {
@@ -198,15 +198,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/weather-app-backend-y96o.onrender.com.ico",
     "slug": "weather-app-api",
     "status": "up",
-    "uptime": "84.78%",
+    "uptime": "84.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "60.86%",
-    "uptimeMonth": "63.88%",
-    "uptimeYear": "84.78%",
+    "uptimeWeek": "62.24%",
+    "uptimeMonth": "63.94%",
+    "uptimeYear": "84.79%",
     "time": 4007,
     "timeDay": 290,
     "timeWeek": 3888,
-    "timeMonth": 2902,
+    "timeMonth": 2967,
     "timeYear": 4007,
     "dailyMinutesDown": {
       "2024-01-03": 80,
@@ -319,17 +319,17 @@
     "slug": "api-words",
     "status": "up",
     "uptime": "84.60%",
-    "uptimeDay": "96.19%",
-    "uptimeWeek": "60.73%",
-    "uptimeMonth": "62.07%",
+    "uptimeDay": "97.04%",
+    "uptimeWeek": "62.23%",
+    "uptimeMonth": "62.16%",
     "uptimeYear": "84.60%",
     "time": 3842,
     "timeDay": 240,
     "timeWeek": 4462,
-    "timeMonth": 4681,
+    "timeMonth": 4524,
     "timeYear": 3842,
     "dailyMinutesDown": {
-      "2024-01-05": 55,
+      "2024-01-05": 43,
       "2024-01-04": 25,
       "2024-01-03": 36,
       "2024-01-02": 31,
@@ -430,7 +430,7 @@
       "2023-09-14": 177,
       "2023-09-13": 128,
       "2023-09-12": 73,
-      "2023-09-11": 156
+      "2023-09-11": 172
     }
   }
 ]
