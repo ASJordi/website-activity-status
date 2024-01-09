@@ -182,10 +182,10 @@
     "url": "https://weather-app-backend-y96o.onrender.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/weather-app-backend-y96o.onrender.com.ico",
     "slug": "weather-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "84.97%",
-    "uptimeDay": "95.67%",
-    "uptimeWeek": "96.16%",
+    "uptimeDay": "95.55%",
+    "uptimeWeek": "96.14%",
     "uptimeMonth": "63.36%",
     "uptimeYear": "84.90%",
     "time": 4111,
@@ -194,7 +194,7 @@
     "timeMonth": 3960,
     "timeYear": 4122,
     "dailyMinutesDown": {
-      "2024-01-09": 62,
+      "2024-01-09": 64,
       "2024-01-08": 61,
       "2024-01-07": 184,
       "2024-01-03": 80,
@@ -295,7 +295,7 @@
       "2023-09-17": 1440,
       "2023-09-16": 724,
       "2023-09-15": 82,
-      "2023-09-14": 126
+      "2023-09-14": 91
     }
   },
   {
@@ -303,11 +303,11 @@
     "url": "https://simple-api-words.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/simple-api-words.onrender.com.ico",
     "slug": "api-words",
-    "status": "up",
-    "uptime": "84.80%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "97.77%",
-    "uptimeMonth": "61.89%",
+    "status": "down",
+    "uptime": "84.81%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "61.91%",
     "uptimeYear": "84.73%",
     "time": 3877,
     "timeDay": 10811,
@@ -315,7 +315,7 @@
     "timeMonth": 4243,
     "timeYear": 3888,
     "dailyMinutesDown": {
-      "2024-01-09": 10,
+      "2024-01-09": 0,
       "2024-01-07": 73,
       "2024-01-06": 22,
       "2024-01-05": 60,
