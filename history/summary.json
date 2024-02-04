@@ -60,19 +60,19 @@
     "url": "https://api-url-zgau.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api-url-zgau.onrender.com.ico",
     "slug": "url-shortener-api",
-    "status": "up",
-    "uptime": "87.72%",
-    "uptimeDay": "93.02%",
-    "uptimeWeek": "48.11%",
-    "uptimeMonth": "70.21%",
-    "uptimeYear": "86.79%",
+    "status": "down",
+    "uptime": "87.73%",
+    "uptimeDay": "92.87%",
+    "uptimeWeek": "49.95%",
+    "uptimeMonth": "70.22%",
+    "uptimeYear": "86.80%",
     "time": 3991,
-    "timeDay": 8250,
+    "timeDay": 9825,
     "timeWeek": 4152,
-    "timeMonth": 3859,
+    "timeMonth": 3639,
     "timeYear": 4138,
     "dailyMinutesDown": {
-      "2024-02-04": 100,
+      "2024-02-04": 102,
       "2024-02-02": 77,
       "2024-02-01": 82,
       "2024-01-31": 1440,
@@ -170,7 +170,7 @@
       "2023-10-16": 160,
       "2023-10-15": 53,
       "2023-10-14": 73,
-      "2023-10-13": 123
+      "2023-10-13": 72
     }
   },
   {
@@ -197,9 +197,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/weather-app-backend-y96o.onrender.com.ico",
     "slug": "weather-app-api",
     "status": "up",
-    "uptime": "87.67%",
+    "uptime": "87.68%",
     "uptimeDay": "98.43%",
-    "uptimeWeek": "49.23%",
+    "uptimeWeek": "51.09%",
     "uptimeMonth": "70.01%",
     "uptimeYear": "86.75%",
     "time": 4035,
@@ -314,12 +314,12 @@
     "url": "https://simple-api-words.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/simple-api-words.onrender.com.ico",
     "slug": "api-words",
-    "status": "up",
-    "uptime": "87.50%",
-    "uptimeDay": "98.86%",
-    "uptimeWeek": "47.89%",
+    "status": "down",
+    "uptime": "87.51%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "49.75%",
     "uptimeMonth": "70.20%",
-    "uptimeYear": "86.55%",
+    "uptimeYear": "86.57%",
     "time": 3863,
     "timeDay": 6965,
     "timeWeek": 3276,
@@ -426,8 +426,7 @@
       "2023-10-12": 89,
       "2023-10-11": 89,
       "2023-10-10": 197,
-      "2023-10-09": 67,
-      "2023-10-08": 68
+      "2023-10-09": 67
     }
   }
 ]
