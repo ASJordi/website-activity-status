@@ -60,19 +60,19 @@
     "url": "https://api-url-zgau.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api-url-zgau.onrender.com.ico",
     "slug": "url-shortener-api",
-    "status": "up",
+    "status": "down",
     "uptime": "87.80%",
-    "uptimeDay": "92.77%",
-    "uptimeWeek": "74.39%",
-    "uptimeMonth": "70.14%",
+    "uptimeDay": "94.01%",
+    "uptimeWeek": "75.53%",
+    "uptimeMonth": "70.13%",
     "uptimeYear": "86.82%",
     "time": 4001,
-    "timeDay": 3856,
+    "timeDay": 4596,
     "timeWeek": 4757,
-    "timeMonth": 4020,
+    "timeMonth": 4057,
     "timeYear": 4162,
     "dailyMinutesDown": {
-      "2024-02-06": 69,
+      "2024-02-06": 70,
       "2024-02-05": 36,
       "2024-02-04": 117,
       "2024-02-02": 77,
@@ -169,8 +169,7 @@
       "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 340,
-      "2023-10-16": 160,
-      "2023-10-15": 17
+      "2023-10-16": 160
     }
   },
   {
@@ -199,7 +198,7 @@
     "status": "up",
     "uptime": "87.76%",
     "uptimeDay": "96.98%",
-    "uptimeWeek": "76.04%",
+    "uptimeWeek": "77.19%",
     "uptimeMonth": "69.86%",
     "uptimeYear": "86.77%",
     "time": 4098,
@@ -316,18 +315,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/simple-api-words.onrender.com.ico",
     "slug": "api-words",
     "status": "up",
-    "uptime": "87.58%",
-    "uptimeDay": "95.31%",
-    "uptimeWeek": "74.71%",
-    "uptimeMonth": "70.23%",
-    "uptimeYear": "86.58%",
+    "uptime": "87.57%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "75.96%",
+    "uptimeMonth": "70.26%",
+    "uptimeYear": "86.57%",
     "time": 3885,
-    "timeDay": 8798,
+    "timeDay": 10955,
     "timeWeek": 4335,
     "timeMonth": 4260,
     "timeYear": 4049,
     "dailyMinutesDown": {
-      "2024-02-06": 48,
+      "2024-02-06": 37,
       "2024-02-05": 19,
       "2024-02-04": 16,
       "2024-02-03": 34,
@@ -428,7 +427,7 @@
       "2023-10-13": 191,
       "2023-10-12": 89,
       "2023-10-11": 89,
-      "2023-10-10": 131
+      "2023-10-10": 197
     }
   }
 ]
