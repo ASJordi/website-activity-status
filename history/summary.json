@@ -60,19 +60,19 @@
     "url": "https://api-url-zgau.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api-url-zgau.onrender.com.ico",
     "slug": "url-shortener-api",
-    "status": "up",
-    "uptime": "90.36%",
-    "uptimeDay": "50.40%",
-    "uptimeWeek": "8.86%",
+    "status": "down",
+    "uptime": "90.37%",
+    "uptimeDay": "57.63%",
+    "uptimeWeek": "8.85%",
     "uptimeMonth": "76.95%",
-    "uptimeYear": "88.95%",
+    "uptimeYear": "88.96%",
     "time": 4087,
     "timeDay": 7587,
-    "timeWeek": 2261,
+    "timeWeek": 2452,
     "timeMonth": 5001,
     "timeYear": 4353,
     "dailyMinutesDown": {
-      "2024-03-01": 85,
+      "2024-03-01": 86,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
@@ -160,8 +160,7 @@
       "2023-11-17": 351,
       "2023-11-16": 24,
       "2023-11-15": 23,
-      "2023-11-14": 17,
-      "2023-11-12": 26
+      "2023-11-14": 17
     }
   },
   {
@@ -189,9 +188,9 @@
     "slug": "weather-app-api",
     "status": "up",
     "uptime": "90.33%",
-    "uptimeDay": "48.36%",
-    "uptimeWeek": "8.57%",
-    "uptimeMonth": "77.25%",
+    "uptimeDay": "56.39%",
+    "uptimeWeek": "8.67%",
+    "uptimeMonth": "77.27%",
     "uptimeYear": "88.91%",
     "time": 4052,
     "timeDay": 12314,
@@ -199,7 +198,7 @@
     "timeMonth": 4106,
     "timeYear": 4319,
     "dailyMinutesDown": {
-      "2024-03-01": 114,
+      "2024-03-01": 103,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
@@ -292,7 +291,8 @@
       "2023-11-15": 21,
       "2023-11-14": 15,
       "2023-11-13": 27,
-      "2023-11-10": 25
+      "2023-11-10": 25,
+      "2023-11-09": 16
     }
   },
   {
@@ -301,8 +301,8 @@
     "icon": "https://icons.duckduckgo.com/ip3/simple-api-words.onrender.com.ico",
     "slug": "api-words",
     "status": "up",
-    "uptime": "86.84%",
-    "uptimeDay": "48.77%",
+    "uptime": "86.85%",
+    "uptimeDay": "56.06%",
     "uptimeWeek": "8.62%",
     "uptimeMonth": "77.57%",
     "uptimeYear": "84.92%",
