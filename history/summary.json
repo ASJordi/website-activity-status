@@ -60,19 +60,19 @@
     "url": "https://api-url-zgau.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api-url-zgau.onrender.com.ico",
     "slug": "url-shortener-api",
-    "status": "up",
-    "uptime": "90.41%",
-    "uptimeDay": "89.00%",
-    "uptimeWeek": "47.40%",
-    "uptimeMonth": "76.90%",
-    "uptimeYear": "88.93%",
+    "status": "down",
+    "uptime": "90.42%",
+    "uptimeDay": "88.85%",
+    "uptimeWeek": "49.36%",
+    "uptimeMonth": "76.94%",
+    "uptimeYear": "88.94%",
     "time": 4141,
-    "timeDay": 12241,
+    "timeDay": 16255,
     "timeWeek": 6793,
-    "timeMonth": 5760,
+    "timeMonth": 5532,
     "timeYear": 4427,
     "dailyMinutesDown": {
-      "2024-03-04": 159,
+      "2024-03-04": 161,
       "2024-03-03": 23,
       "2024-03-01": 85,
       "2024-02-29": 1440,
@@ -159,8 +159,7 @@
       "2023-11-20": 1440,
       "2023-11-19": 1440,
       "2023-11-18": 1440,
-      "2023-11-17": 351,
-      "2023-11-16": 24
+      "2023-11-17": 351
     }
   },
   {
@@ -189,7 +188,7 @@
     "status": "up",
     "uptime": "90.39%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "48.62%",
+    "uptimeWeek": "50.61%",
     "uptimeMonth": "77.28%",
     "uptimeYear": "88.90%",
     "time": 4051,
@@ -300,16 +299,16 @@
     "url": "https://simple-api-words.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/simple-api-words.onrender.com.ico",
     "slug": "api-words",
-    "status": "up",
+    "status": "down",
     "uptime": "90.31%",
-    "uptimeDay": "96.80%",
-    "uptimeWeek": "48.05%",
-    "uptimeMonth": "77.68%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "50.03%",
+    "uptimeMonth": "77.72%",
     "uptimeYear": "88.81%",
     "time": 3886,
-    "timeDay": 231,
+    "timeDay": 248,
     "timeWeek": 3166,
-    "timeMonth": 4145,
+    "timeMonth": 4120,
     "timeYear": 4169,
     "dailyMinutesDown": {
       "2024-03-04": 46,
@@ -407,8 +406,7 @@
       "2023-11-11": 38,
       "2023-11-07": 16,
       "2023-11-06": 26,
-      "2023-11-05": 17,
-      "2023-11-04": 23
+      "2023-11-05": 17
     }
   }
 ]
