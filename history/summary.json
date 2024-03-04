@@ -62,17 +62,17 @@
     "slug": "url-shortener-api",
     "status": "down",
     "uptime": "90.42%",
-    "uptimeDay": "88.93%",
+    "uptimeDay": "87.66%",
     "uptimeWeek": "52.20%",
-    "uptimeMonth": "76.98%",
-    "uptimeYear": "88.94%",
+    "uptimeMonth": "76.94%",
+    "uptimeYear": "88.93%",
     "time": 4137,
     "timeDay": 12232,
     "timeWeek": 6444,
     "timeMonth": 5354,
     "timeYear": 4432,
     "dailyMinutesDown": {
-      "2024-03-04": 160,
+      "2024-03-04": 178,
       "2024-03-03": 23,
       "2024-03-01": 85,
       "2024-02-29": 1440,
@@ -185,18 +185,19 @@
     "url": "https://weather-app-backend-y96o.onrender.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/weather-app-backend-y96o.onrender.com.ico",
     "slug": "weather-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "90.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "53.44%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "53.60%",
     "uptimeMonth": "77.28%",
-    "uptimeYear": "88.90%",
+    "uptimeYear": "88.91%",
     "time": 4042,
     "timeDay": 298,
     "timeWeek": 4922,
     "timeMonth": 4107,
     "timeYear": 4326,
     "dailyMinutesDown": {
+      "2024-03-04": 2,
       "2024-03-02": 39,
       "2024-03-01": 103,
       "2024-02-29": 1440,
@@ -290,8 +291,7 @@
       "2023-11-17": 344,
       "2023-11-15": 21,
       "2023-11-14": 15,
-      "2023-11-13": 27,
-      "2023-11-10": 25
+      "2023-11-13": 27
     }
   },
   {
@@ -299,10 +299,10 @@
     "url": "https://simple-api-words.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/simple-api-words.onrender.com.ico",
     "slug": "api-words",
-    "status": "up",
-    "uptime": "90.31%",
-    "uptimeDay": "96.80%",
-    "uptimeWeek": "52.87%",
+    "status": "down",
+    "uptime": "90.32%",
+    "uptimeDay": "96.77%",
+    "uptimeWeek": "53.05%",
     "uptimeMonth": "77.72%",
     "uptimeYear": "88.81%",
     "time": 3878,
@@ -406,8 +406,7 @@
       "2023-11-11": 38,
       "2023-11-07": 16,
       "2023-11-06": 26,
-      "2023-11-05": 17,
-      "2023-11-04": 23
+      "2023-11-05": 17
     }
   }
 ]
