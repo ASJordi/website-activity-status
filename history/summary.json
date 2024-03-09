@@ -61,7 +61,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-url-zgau.onrender.com.ico",
     "slug": "url-shortener-api",
     "status": "up",
-    "uptime": "93.63%",
+    "uptime": "93.64%",
     "uptimeDay": "97.78%",
     "uptimeWeek": "96.18%",
     "uptimeMonth": "77.34%",
@@ -288,12 +288,12 @@
     "url": "https://simple-api-words.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/simple-api-words.onrender.com.ico",
     "slug": "api-words",
-    "status": "up",
+    "status": "down",
     "uptime": "90.42%",
-    "uptimeDay": "98.25%",
+    "uptimeDay": "98.22%",
     "uptimeWeek": "97.93%",
     "uptimeMonth": "77.81%",
-    "uptimeYear": "88.80%",
+    "uptimeYear": "88.81%",
     "time": 3888,
     "timeDay": 166,
     "timeWeek": 3073,
@@ -394,8 +394,7 @@
       "2023-11-19": 1440,
       "2023-11-18": 1440,
       "2023-11-17": 345,
-      "2023-11-15": 44,
-      "2023-11-12": 21
+      "2023-11-15": 44
     }
   }
 ]
