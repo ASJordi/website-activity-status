@@ -63,12 +63,12 @@
     "status": "up",
     "uptime": "93.74%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.75%",
+    "uptimeWeek": "97.77%",
     "uptimeMonth": "77.07%",
     "uptimeYear": "92.56%",
     "time": 4154,
     "timeDay": 7219,
-    "timeWeek": 3389,
+    "timeWeek": 3559,
     "timeMonth": 5167,
     "timeYear": 4494,
     "dailyMinutesDown": {
@@ -176,18 +176,19 @@
     "url": "https://weather-app-backend-y96o.onrender.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/weather-app-backend-y96o.onrender.com.ico",
     "slug": "weather-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "93.71%",
-    "uptimeDay": "98.35%",
-    "uptimeWeek": "98.08%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "98.07%",
     "uptimeMonth": "77.83%",
-    "uptimeYear": "92.53%",
+    "uptimeYear": "92.54%",
     "time": 4040,
-    "timeDay": 4343,
+    "timeDay": 5166,
     "timeWeek": 4152,
-    "timeMonth": 3781,
+    "timeMonth": 3822,
     "timeYear": 4369,
     "dailyMinutesDown": {
+      "2024-03-16": 1,
       "2024-03-15": 125,
       "2024-03-13": 34,
       "2024-03-11": 35,
@@ -266,7 +267,7 @@
       "2023-12-08": 33,
       "2023-12-05": 74,
       "2023-12-04": 43,
-      "2023-12-03": 43
+      "2023-12-03": 24
     }
   },
   {
@@ -276,17 +277,17 @@
     "slug": "api-words",
     "status": "up",
     "uptime": "93.63%",
-    "uptimeDay": "93.73%",
-    "uptimeWeek": "97.80%",
-    "uptimeMonth": "77.56%",
-    "uptimeYear": "92.44%",
+    "uptimeDay": "94.80%",
+    "uptimeWeek": "97.90%",
+    "uptimeMonth": "77.59%",
+    "uptimeYear": "92.43%",
     "time": 3853,
-    "timeDay": 4577,
+    "timeDay": 5663,
     "timeWeek": 2456,
     "timeMonth": 3878,
     "timeYear": 4175,
     "dailyMinutesDown": {
-      "2024-03-16": 63,
+      "2024-03-16": 52,
       "2024-03-15": 46,
       "2024-03-12": 30,
       "2024-03-11": 36,
@@ -367,7 +368,8 @@
       "2023-12-15": 24,
       "2023-12-14": 120,
       "2023-12-12": 159,
-      "2023-12-05": 52
+      "2023-12-05": 52,
+      "2023-12-04": 19
     }
   }
 ]
