@@ -60,19 +60,19 @@
     "url": "https://api-url-zgau.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api-url-zgau.onrender.com.ico",
     "slug": "url-shortener-api",
-    "status": "up",
+    "status": "down",
     "uptime": "93.72%",
-    "uptimeDay": "92.55%",
-    "uptimeWeek": "92.67%",
+    "uptimeDay": "92.41%",
+    "uptimeWeek": "92.65%",
     "uptimeMonth": "75.99%",
     "uptimeYear": "92.48%",
     "time": 4160,
     "timeDay": 5961,
-    "timeWeek": 3861,
+    "timeWeek": 4006,
     "timeMonth": 5215,
     "timeYear": 4513,
     "dailyMinutesDown": {
-      "2024-03-20": 49,
+      "2024-03-20": 51,
       "2024-03-19": 58,
       "2024-03-18": 374,
       "2024-03-17": 126,
@@ -148,8 +148,7 @@
       "2023-12-20": 35,
       "2023-12-19": 23,
       "2023-12-18": 136,
-      "2023-12-17": 40,
-      "2023-12-15": 29
+      "2023-12-17": 40
     }
   },
   {
@@ -175,9 +174,9 @@
     "url": "https://weather-app-backend-y96o.onrender.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/weather-app-backend-y96o.onrender.com.ico",
     "slug": "weather-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "93.69%",
-    "uptimeDay": "97.41%",
+    "uptimeDay": "97.37%",
     "uptimeWeek": "91.67%",
     "uptimeMonth": "76.60%",
     "uptimeYear": "92.44%",
@@ -187,6 +186,7 @@
     "timeMonth": 3978,
     "timeYear": 4369,
     "dailyMinutesDown": {
+      "2024-03-20": 1,
       "2024-03-19": 37,
       "2024-03-18": 479,
       "2024-03-17": 96,
@@ -264,8 +264,7 @@
       "2023-12-16": 19,
       "2023-12-15": 16,
       "2023-12-12": 43,
-      "2023-12-11": 29,
-      "2023-12-10": 25
+      "2023-12-11": 29
     }
   },
   {
@@ -274,13 +273,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/simple-api-words.onrender.com.ico",
     "slug": "api-words",
     "status": "up",
-    "uptime": "93.67%",
+    "uptime": "93.68%",
     "uptimeDay": "97.01%",
     "uptimeWeek": "95.04%",
     "uptimeMonth": "76.91%",
     "uptimeYear": "92.42%",
     "time": 3904,
-    "timeDay": 11183,
+    "timeDay": 14847,
     "timeWeek": 5247,
     "timeMonth": 3978,
     "timeYear": 4243,
