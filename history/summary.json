@@ -4,9 +4,9 @@
     "url": "https://asjordi.dev",
     "icon": "https://icons.duckduckgo.com/ip3/asjordi.dev.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 94,
     "timeMonth": 105,
     "timeYear": 120,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-03": 0
+    }
   },
   {
     "name": "Links",
     "url": "https://links.asjordi.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/links.asjordi.dev.ico",
     "slug": "links",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 144,
     "timeMonth": 146,
     "timeYear": 158,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-03": 0
+    }
   },
   {
     "name": "URL Shortener",
@@ -63,7 +67,7 @@
     "status": "up",
     "uptime": "91.53%",
     "uptimeDay": "98.34%",
-    "uptimeWeek": "37.81%",
+    "uptimeWeek": "37.93%",
     "uptimeMonth": "61.45%",
     "uptimeYear": "89.52%",
     "time": 4142,
@@ -189,7 +193,7 @@
     "status": "up",
     "uptime": "91.49%",
     "uptimeDay": "98.89%",
-    "uptimeWeek": "37.88%",
+    "uptimeWeek": "38.00%",
     "uptimeMonth": "62.11%",
     "uptimeYear": "89.48%",
     "time": 3983,
@@ -296,9 +300,9 @@
     "slug": "api-words",
     "status": "up",
     "uptime": "91.61%",
-    "uptimeDay": "97.56%",
-    "uptimeWeek": "37.36%",
-    "uptimeMonth": "62.17%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "37.62%",
+    "uptimeMonth": "62.20%",
     "uptimeYear": "89.62%",
     "time": 3854,
     "timeDay": 5918,
@@ -306,7 +310,6 @@
     "timeMonth": 3458,
     "timeYear": 4247,
     "dailyMinutesDown": {
-      "2024-04-03": 15,
       "2024-04-02": 20,
       "2024-04-01": 77,
       "2024-03-31": 1440,
@@ -397,7 +400,7 @@
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 587,
-      "2023-12-20": 17
+      "2023-12-20": 49
     }
   }
 ]
