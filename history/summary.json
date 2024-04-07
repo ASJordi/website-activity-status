@@ -64,19 +64,19 @@
     "url": "https://api-url-zgau.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api-url-zgau.onrender.com.ico",
     "slug": "url-shortener-api",
-    "status": "up",
+    "status": "down",
     "uptime": "91.60%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "88.75%",
-    "uptimeMonth": "61.94%",
-    "uptimeYear": "89.52%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "89.19%",
+    "uptimeMonth": "61.93%",
+    "uptimeYear": "89.53%",
     "time": 4146,
     "timeDay": 168,
     "timeWeek": 5275,
-    "timeMonth": 3862,
+    "timeMonth": 3906,
     "timeYear": 4573,
     "dailyMinutesDown": {
-      "2024-04-07": 15,
+      "2024-04-07": 18,
       "2024-04-03": 24,
       "2024-04-01": 42,
       "2024-03-31": 1440,
@@ -163,8 +163,7 @@
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 629,
-      "2023-12-20": 35,
-      "2023-12-19": 23
+      "2023-12-20": 35
     }
   },
   {
@@ -190,18 +189,19 @@
     "url": "https://weather-app-backend-y96o.onrender.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/weather-app-backend-y96o.onrender.com.ico",
     "slug": "weather-app-api",
-    "status": "up",
-    "uptime": "91.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "88.81%",
+    "status": "down",
+    "uptime": "91.59%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "89.26%",
     "uptimeMonth": "62.08%",
-    "uptimeYear": "89.48%",
+    "uptimeYear": "89.51%",
     "time": 4006,
     "timeDay": 198,
     "timeWeek": 6763,
     "timeMonth": 3353,
     "timeYear": 4421,
     "dailyMinutesDown": {
+      "2024-04-07": 2,
       "2024-04-05": 16,
       "2024-04-02": 16,
       "2024-04-01": 43,
@@ -290,7 +290,7 @@
       "2023-12-20": 19,
       "2023-12-19": 48,
       "2023-12-18": 68,
-      "2023-12-17": 204
+      "2023-12-17": 21
     }
   },
   {
@@ -298,18 +298,19 @@
     "url": "https://simple-api-words.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/simple-api-words.onrender.com.ico",
     "slug": "api-words",
-    "status": "up",
-    "uptime": "93.97%",
-    "uptimeDay": "96.11%",
-    "uptimeWeek": "87.83%",
+    "status": "down",
+    "uptime": "93.98%",
+    "uptimeDay": "96.09%",
+    "uptimeWeek": "88.30%",
     "uptimeMonth": "62.22%",
-    "uptimeYear": "92.48%",
+    "uptimeYear": "92.49%",
     "time": 3921,
     "timeDay": 9465,
     "timeWeek": 7903,
-    "timeMonth": 3919,
+    "timeMonth": 3960,
     "timeYear": 4336,
     "dailyMinutesDown": {
+      "2024-04-07": 0,
       "2024-04-06": 56,
       "2024-04-05": 21,
       "2024-04-02": 20,
@@ -389,8 +390,7 @@
       "2024-01-05": 60,
       "2024-01-04": 25,
       "2024-01-03": 36,
-      "2024-01-02": 31,
-      "2024-01-01": 16
+      "2024-01-02": 31
     }
   }
 ]
