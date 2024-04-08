@@ -66,9 +66,9 @@
     "slug": "url-shortener-api",
     "status": "up",
     "uptime": "91.61%",
-    "uptimeDay": "98.19%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "62.09%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "62.12%",
     "uptimeYear": "89.52%",
     "time": 4137,
     "timeDay": 1578,
@@ -76,7 +76,6 @@
     "timeMonth": 3764,
     "timeYear": 4567,
     "dailyMinutesDown": {
-      "2024-04-08": 11,
       "2024-04-07": 15,
       "2024-04-03": 24,
       "2024-04-01": 42,
@@ -164,7 +163,8 @@
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 629,
-      "2023-12-20": 35
+      "2023-12-20": 35,
+      "2023-12-19": 23
     }
   },
   {
@@ -190,18 +190,19 @@
     "url": "https://weather-app-backend-y96o.onrender.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/weather-app-backend-y96o.onrender.com.ico",
     "slug": "weather-app-api",
-    "status": "up",
-    "uptime": "91.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.69%",
+    "status": "down",
+    "uptime": "91.61%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.68%",
     "uptimeMonth": "62.16%",
-    "uptimeYear": "89.48%",
+    "uptimeYear": "89.51%",
     "time": 4020,
     "timeDay": 11195,
     "timeWeek": 7771,
     "timeMonth": 3639,
     "timeYear": 4441,
     "dailyMinutesDown": {
+      "2024-04-08": 1,
       "2024-04-05": 16,
       "2024-04-02": 16,
       "2024-04-01": 43,
@@ -290,7 +291,7 @@
       "2023-12-20": 19,
       "2023-12-19": 48,
       "2023-12-18": 68,
-      "2023-12-17": 204
+      "2023-12-17": 21
     }
   },
   {
@@ -299,14 +300,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/simple-api-words.onrender.com.ico",
     "slug": "api-words",
     "status": "up",
-    "uptime": "93.98%",
+    "uptime": "93.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.71%",
+    "uptimeWeek": "98.86%",
     "uptimeMonth": "62.34%",
     "uptimeYear": "92.48%",
     "time": 3932,
     "timeDay": 7194,
-    "timeWeek": 7119,
+    "timeWeek": 7469,
     "timeMonth": 4128,
     "timeYear": 4351,
     "dailyMinutesDown": {
