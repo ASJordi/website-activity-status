@@ -1,7 +1,7 @@
 url: https://simple-api-words.onrender.com
-status: up
-code: 200
-responseTime: 21329
-lastUpdated: 2024-04-12T23:10:47.705Z
+status: down
+code: 503
+responseTime: 181
+lastUpdated: 2024-04-13T13:18:04.390Z
 startTime: 2023-01-08T02:18:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
