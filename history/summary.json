@@ -65,9 +65,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-url-zgau.onrender.com.ico",
     "slug": "url-shortener-api",
     "status": "up",
-    "uptime": "90.63%",
+    "uptime": "90.64%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "61.82%",
+    "uptimeWeek": "64.66%",
     "uptimeMonth": "42.32%",
     "uptimeYear": "87.60%",
     "time": 4074,
@@ -197,18 +197,19 @@
     "url": "https://weather-app-backend-y96o.onrender.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/weather-app-backend-y96o.onrender.com.ico",
     "slug": "weather-app-api",
-    "status": "up",
-    "uptime": "88.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "61.51%",
-    "uptimeMonth": "42.19%",
+    "status": "down",
+    "uptime": "88.47%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "64.34%",
+    "uptimeMonth": "42.18%",
     "uptimeYear": "84.72%",
-    "time": 4041,
+    "time": 4045,
     "timeDay": 21230,
     "timeWeek": 6381,
     "timeMonth": 4015,
     "timeYear": 4534,
     "dailyMinutesDown": {
+      "2024-05-05": 1,
       "2024-05-03": 18,
       "2024-05-02": 30,
       "2024-05-01": 79,
@@ -317,8 +318,7 @@
       "2023-12-24": 1440,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
-      "2023-12-21": 611,
-      "2023-12-20": 19
+      "2023-12-21": 611
     }
   },
   {
@@ -328,17 +328,17 @@
     "slug": "api-words",
     "status": "up",
     "uptime": "90.72%",
-    "uptimeDay": "96.87%",
-    "uptimeWeek": "61.19%",
-    "uptimeMonth": "41.91%",
-    "uptimeYear": "87.71%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "64.13%",
+    "uptimeMonth": "41.93%",
+    "uptimeYear": "87.70%",
     "time": 3855,
     "timeDay": 4515,
     "timeWeek": 3241,
     "timeMonth": 3375,
     "timeYear": 4372,
     "dailyMinutesDown": {
-      "2024-05-05": 29,
+      "2024-05-05": 19,
       "2024-05-04": 16,
       "2024-05-02": 28,
       "2024-05-01": 86,
@@ -437,7 +437,8 @@
       "2024-01-13": 86,
       "2024-01-12": 22,
       "2024-01-11": 100,
-      "2024-01-10": 100
+      "2024-01-10": 100,
+      "2024-01-07": 21
     }
   }
 ]
