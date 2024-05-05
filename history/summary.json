@@ -66,9 +66,9 @@
     "slug": "url-shortener-api",
     "status": "up",
     "uptime": "90.63%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "61.10%",
-    "uptimeMonth": "42.28%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "61.72%",
+    "uptimeMonth": "42.32%",
     "uptimeYear": "87.60%",
     "time": 4074,
     "timeDay": 13207,
@@ -76,7 +76,6 @@
     "timeMonth": 2816,
     "timeYear": 4604,
     "dailyMinutesDown": {
-      "2024-05-05": 14,
       "2024-05-02": 34,
       "2024-05-01": 62,
       "2024-04-30": 1440,
@@ -172,7 +171,7 @@
       "2024-01-07": 116,
       "2024-01-06": 24,
       "2024-01-05": 43,
-      "2024-01-04": 36
+      "2024-01-04": 60
     }
   },
   {
@@ -201,7 +200,7 @@
     "status": "up",
     "uptime": "88.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "60.93%",
+    "uptimeWeek": "61.41%",
     "uptimeMonth": "42.19%",
     "uptimeYear": "84.72%",
     "time": 4041,
@@ -327,12 +326,12 @@
     "url": "https://simple-api-words.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/simple-api-words.onrender.com.ico",
     "slug": "api-words",
-    "status": "up",
-    "uptime": "90.71%",
-    "uptimeDay": "97.56%",
-    "uptimeWeek": "60.71%",
+    "status": "down",
+    "uptime": "90.72%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "61.19%",
     "uptimeMonth": "41.93%",
-    "uptimeYear": "87.70%",
+    "uptimeYear": "87.71%",
     "time": 3859,
     "timeDay": 5389,
     "timeWeek": 3412,
@@ -438,8 +437,7 @@
       "2024-01-13": 86,
       "2024-01-12": 22,
       "2024-01-11": 100,
-      "2024-01-10": 100,
-      "2024-01-07": 21
+      "2024-01-10": 100
     }
   }
 ]
