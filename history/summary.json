@@ -65,14 +65,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-url-zgau.onrender.com.ico",
     "slug": "url-shortener-api",
     "status": "up",
-    "uptime": "90.69%",
+    "uptime": "90.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.30%",
     "uptimeMonth": "42.27%",
     "uptimeYear": "87.60%",
     "time": 4100,
     "timeDay": 540,
-    "timeWeek": 4934,
+    "timeWeek": 5160,
     "timeMonth": 3433,
     "timeYear": 4641,
     "dailyMinutesDown": {
@@ -201,17 +201,16 @@
     "slug": "weather-app-api",
     "status": "up",
     "uptime": "90.69%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "98.41%",
-    "uptimeMonth": "41.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "42.00%",
     "uptimeYear": "87.59%",
     "time": 4069,
-    "timeDay": 5603,
-    "timeWeek": 8235,
-    "timeMonth": 4959,
+    "timeDay": 8034,
+    "timeWeek": 9006,
+    "timeMonth": 4654,
     "timeYear": 4613,
     "dailyMinutesDown": {
-      "2024-05-08": 11,
       "2024-05-07": 16,
       "2024-05-06": 72,
       "2024-05-05": 15,
@@ -310,7 +309,8 @@
       "2024-01-09": 62,
       "2024-01-08": 61,
       "2024-01-07": 184,
-      "2024-01-03": 80
+      "2024-01-03": 80,
+      "2024-01-02": 26
     }
   },
   {
@@ -318,18 +318,19 @@
     "url": "https://simple-api-words.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/simple-api-words.onrender.com.ico",
     "slug": "api-words",
-    "status": "up",
-    "uptime": "90.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.53%",
-    "uptimeMonth": "41.97%",
-    "uptimeYear": "87.70%",
-    "time": 3923,
+    "status": "down",
+    "uptime": "90.78%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "42.01%",
+    "uptimeYear": "87.71%",
+    "time": 3927,
     "timeDay": 22421,
-    "timeWeek": 5503,
-    "timeMonth": 3039,
+    "timeWeek": 5322,
+    "timeMonth": 3143,
     "timeYear": 4414,
     "dailyMinutesDown": {
+      "2024-05-08": 0,
       "2024-05-06": 64,
       "2024-05-05": 19,
       "2024-05-04": 16,
@@ -430,7 +431,7 @@
       "2024-01-13": 86,
       "2024-01-12": 22,
       "2024-01-11": 100,
-      "2024-01-10": 79
+      "2024-01-10": 51
     }
   }
 ]
