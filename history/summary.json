@@ -65,7 +65,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-url-zgau.onrender.com.ico",
     "slug": "url-shortener-api",
     "status": "up",
-    "uptime": "90.70%",
+    "uptime": "90.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.30%",
     "uptimeMonth": "42.27%",
@@ -202,7 +202,7 @@
     "status": "up",
     "uptime": "90.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.52%",
+    "uptimeWeek": "98.58%",
     "uptimeMonth": "42.00%",
     "uptimeYear": "87.59%",
     "time": 4061,
@@ -318,18 +318,19 @@
     "url": "https://simple-api-words.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/simple-api-words.onrender.com.ico",
     "slug": "api-words",
-    "status": "up",
-    "uptime": "90.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.74%",
+    "status": "down",
+    "uptime": "90.79%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "98.79%",
     "uptimeMonth": "42.01%",
-    "uptimeYear": "87.70%",
-    "time": 3931,
+    "uptimeYear": "87.71%",
+    "time": 3935,
     "timeDay": 202,
     "timeWeek": 3857,
     "timeMonth": 3033,
     "timeYear": 4405,
     "dailyMinutesDown": {
+      "2024-05-09": 0,
       "2024-05-06": 64,
       "2024-05-05": 19,
       "2024-05-04": 16,
@@ -430,7 +431,7 @@
       "2024-01-13": 86,
       "2024-01-12": 22,
       "2024-01-11": 100,
-      "2024-01-10": 79
+      "2024-01-10": 51
     }
   }
 ]
