@@ -64,18 +64,19 @@
     "url": "https://api-url-zgau.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api-url-zgau.onrender.com.ico",
     "slug": "url-shortener-api",
-    "status": "up",
-    "uptime": "90.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.46%",
+    "status": "down",
+    "uptime": "90.76%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.45%",
     "uptimeMonth": "42.31%",
     "uptimeYear": "87.60%",
     "time": 4076,
-    "timeDay": 320,
+    "timeDay": 293,
     "timeWeek": 5110,
     "timeMonth": 3206,
     "timeYear": 4624,
     "dailyMinutesDown": {
+      "2024-05-11": 1,
       "2024-05-09": 18,
       "2024-05-07": 17,
       "2024-05-06": 19,
@@ -173,7 +174,7 @@
       "2024-01-08": 62,
       "2024-01-07": 116,
       "2024-01-06": 24,
-      "2024-01-05": 43
+      "2024-01-05": 19
     }
   },
   {
@@ -201,17 +202,16 @@
     "slug": "weather-app-api",
     "status": "up",
     "uptime": "90.75%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "98.67%",
-    "uptimeMonth": "41.96%",
-    "uptimeYear": "87.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "41.99%",
+    "uptimeYear": "87.59%",
     "time": 4060,
     "timeDay": 331,
     "timeWeek": 7287,
     "timeMonth": 4569,
     "timeYear": 4613,
     "dailyMinutesDown": {
-      "2024-05-11": 10,
       "2024-05-09": 23,
       "2024-05-07": 16,
       "2024-05-06": 72,
@@ -311,7 +311,7 @@
       "2024-01-09": 62,
       "2024-01-08": 61,
       "2024-01-07": 184,
-      "2024-01-03": 18
+      "2024-01-03": 80
     }
   },
   {
@@ -322,12 +322,12 @@
     "status": "up",
     "uptime": "90.83%",
     "uptimeDay": "98.73%",
-    "uptimeWeek": "98.32%",
+    "uptimeWeek": "98.48%",
     "uptimeMonth": "41.96%",
     "uptimeYear": "87.70%",
     "time": 3968,
     "timeDay": 351,
-    "timeWeek": 4667,
+    "timeWeek": 4870,
     "timeMonth": 2987,
     "timeYear": 4406,
     "dailyMinutesDown": {
