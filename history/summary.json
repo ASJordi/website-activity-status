@@ -318,13 +318,13 @@
     "url": "https://simple-api-words.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/simple-api-words.onrender.com.ico",
     "slug": "api-words",
-    "status": "up",
+    "status": "down",
     "uptime": "90.83%",
-    "uptimeDay": "98.73%",
-    "uptimeWeek": "98.32%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "98.31%",
     "uptimeMonth": "41.92%",
-    "uptimeYear": "87.70%",
-    "time": 3964,
+    "uptimeYear": "87.71%",
+    "time": 3968,
     "timeDay": 404,
     "timeWeek": 4868,
     "timeMonth": 2940,
@@ -431,7 +431,7 @@
       "2024-01-14": 68,
       "2024-01-13": 86,
       "2024-01-12": 22,
-      "2024-01-11": 100
+      "2024-01-11": 65
     }
   }
 ]
