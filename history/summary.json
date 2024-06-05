@@ -67,7 +67,7 @@
     "status": "up",
     "uptime": "87.61%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "56.49%",
+    "uptimeWeek": "58.24%",
     "uptimeMonth": "38.91%",
     "uptimeYear": "82.55%",
     "time": 4107,
@@ -222,7 +222,7 @@
     "status": "up",
     "uptime": "87.60%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "56.89%",
+    "uptimeWeek": "58.64%",
     "uptimeMonth": "38.73%",
     "uptimeYear": "82.53%",
     "time": 3995,
@@ -358,10 +358,10 @@
     "url": "https://simple-api-words.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/simple-api-words.onrender.com.ico",
     "slug": "api-words",
-    "status": "up",
+    "status": "down",
     "uptime": "87.68%",
-    "uptimeDay": "96.50%",
-    "uptimeWeek": "57.09%",
+    "uptimeDay": "96.48%",
+    "uptimeWeek": "58.83%",
     "uptimeMonth": "38.73%",
     "uptimeYear": "82.65%",
     "time": 3832,
@@ -493,7 +493,7 @@
       "2024-01-17": 41,
       "2024-01-16": 49,
       "2024-01-14": 68,
-      "2024-01-13": 86
+      "2024-01-13": 60
     }
   }
 ]
