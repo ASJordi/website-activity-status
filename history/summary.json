@@ -64,18 +64,19 @@
     "url": "https://api-url-zgau.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api-url-zgau.onrender.com.ico",
     "slug": "url-shortener-api",
-    "status": "up",
-    "uptime": "87.78%",
-    "uptimeDay": "98.76%",
-    "uptimeWeek": "98.20%",
-    "uptimeMonth": "38.62%",
-    "uptimeYear": "82.56%",
+    "status": "down",
+    "uptime": "87.79%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "98.19%",
+    "uptimeMonth": "38.61%",
+    "uptimeYear": "82.57%",
     "time": 3963,
-    "timeDay": 202,
+    "timeDay": 195,
     "timeWeek": 1372,
     "timeMonth": 2083,
     "timeYear": 4604,
     "dailyMinutesDown": {
+      "2024-06-12": 1,
       "2024-06-11": 84,
       "2024-06-10": 33,
       "2024-06-09": 16,
@@ -192,8 +193,7 @@
       "2024-01-16": 73,
       "2024-01-15": 55,
       "2024-01-14": 29,
-      "2024-01-13": 18,
-      "2024-01-12": 45
+      "2024-01-13": 18
     }
   },
   {
@@ -220,10 +220,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/weather-app-backend-y96o.onrender.com.ico",
     "slug": "weather-app-api",
     "status": "up",
-    "uptime": "87.45%",
-    "uptimeDay": "96.33%",
-    "uptimeWeek": "74.29%",
-    "uptimeMonth": "33.09%",
+    "uptime": "87.46%",
+    "uptimeDay": "97.12%",
+    "uptimeWeek": "74.40%",
+    "uptimeMonth": "33.12%",
     "uptimeYear": "82.09%",
     "time": 4040,
     "timeDay": 223,
@@ -231,7 +231,6 @@
     "timeMonth": 1276,
     "timeYear": 4579,
     "dailyMinutesDown": {
-      "2024-06-12": 11,
       "2024-06-11": 42,
       "2024-06-10": 40,
       "2024-06-09": 26,
@@ -354,7 +353,7 @@
       "2024-01-14": 26,
       "2024-01-13": 37,
       "2024-01-11": 107,
-      "2024-01-10": 19
+      "2024-01-10": 37
     }
   },
   {
@@ -363,14 +362,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/simple-api-words.onrender.com.ico",
     "slug": "api-words",
     "status": "up",
-    "uptime": "87.83%",
+    "uptime": "87.84%",
     "uptimeDay": "97.07%",
     "uptimeWeek": "97.68%",
     "uptimeMonth": "38.61%",
     "uptimeYear": "82.63%",
     "time": 3830,
     "timeDay": 292,
-    "timeWeek": 2038,
+    "timeWeek": 2123,
     "timeMonth": 2148,
     "timeYear": 4433,
     "dailyMinutesDown": {
