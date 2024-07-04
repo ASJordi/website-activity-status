@@ -65,19 +65,19 @@
     "url": "https://api-url-zgau.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api-url-zgau.onrender.com.ico",
     "slug": "url-shortener-api",
-    "status": "up",
+    "status": "down",
     "uptime": "85.14%",
-    "uptimeDay": "96.33%",
-    "uptimeWeek": "47.49%",
-    "uptimeMonth": "43.03%",
+    "uptimeDay": "96.98%",
+    "uptimeWeek": "48.27%",
+    "uptimeMonth": "43.06%",
     "uptimeYear": "77.87%",
-    "time": 3941,
+    "time": 3944,
     "timeDay": 622,
     "timeWeek": 982,
     "timeMonth": 905,
     "timeYear": 4541,
     "dailyMinutesDown": {
-      "2024-07-04": 35,
+      "2024-07-04": 25,
       "2024-07-03": 44,
       "2024-07-02": 44,
       "2024-07-01": 105,
@@ -238,11 +238,11 @@
     "url": "https://weather-app-backend-y96o.onrender.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/weather-app-backend-y96o.onrender.com.ico",
     "slug": "weather-app-api",
-    "status": "up",
-    "uptime": "84.82%",
-    "uptimeDay": "93.78%",
-    "uptimeWeek": "47.44%",
-    "uptimeMonth": "37.39%",
+    "status": "down",
+    "uptime": "84.83%",
+    "uptimeDay": "93.66%",
+    "uptimeWeek": "48.10%",
+    "uptimeMonth": "37.38%",
     "uptimeYear": "77.41%",
     "time": 3812,
     "timeDay": 510,
@@ -250,6 +250,7 @@
     "timeMonth": 688,
     "timeYear": 4510,
     "dailyMinutesDown": {
+      "2024-07-04": 2,
       "2024-07-03": 89,
       "2024-07-01": 145,
       "2024-06-30": 1440,
@@ -389,7 +390,7 @@
       "2024-01-18": 76,
       "2024-01-17": 32,
       "2024-01-16": 60,
-      "2024-01-15": 54
+      "2024-01-15": 22
     }
   },
   {
@@ -397,18 +398,19 @@
     "url": "https://simple-api-words.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/simple-api-words.onrender.com.ico",
     "slug": "api-words",
-    "status": "up",
+    "status": "down",
     "uptime": "85.18%",
-    "uptimeDay": "93.68%",
-    "uptimeWeek": "47.21%",
+    "uptimeDay": "93.66%",
+    "uptimeWeek": "47.89%",
     "uptimeMonth": "42.69%",
     "uptimeYear": "77.94%",
-    "time": 3920,
+    "time": 3924,
     "timeDay": 7320,
     "timeWeek": 2751,
     "timeMonth": 1955,
     "timeYear": 4439,
     "dailyMinutesDown": {
+      "2024-07-04": 0,
       "2024-07-03": 91,
       "2024-07-02": 43,
       "2024-07-01": 123,
@@ -551,8 +553,7 @@
       "2024-01-22": 25,
       "2024-01-21": 22,
       "2024-01-20": 18,
-      "2024-01-19": 31,
-      "2024-01-18": 18
+      "2024-01-19": 31
     }
   }
 ]
