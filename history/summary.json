@@ -240,17 +240,17 @@
     "url": "https://weather-app-backend-y96o.onrender.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/weather-app-backend-y96o.onrender.com.ico",
     "slug": "weather-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "85.02%",
-    "uptimeDay": "89.86%",
+    "uptimeDay": "89.84%",
     "uptimeWeek": "96.51%",
-    "uptimeMonth": "42.44%",
-    "uptimeYear": "77.39%",
-    "time": 3973,
-    "timeDay": 2509,
-    "timeWeek": 2530,
-    "timeMonth": 1510,
-    "timeYear": 4460,
+    "uptimeMonth": "42.43%",
+    "uptimeYear": "77.40%",
+    "time": 3974,
+    "timeDay": 2382,
+    "timeWeek": 2496,
+    "timeMonth": 1507,
+    "timeYear": 4457,
     "dailyMinutesDown": {
       "2024-07-11": 146,
       "2024-07-10": 74,
@@ -393,7 +393,7 @@
       "2024-01-23": 472,
       "2024-01-22": 100,
       "2024-01-21": 24,
-      "2024-01-20": 41
+      "2024-01-20": 19
     }
   },
   {
