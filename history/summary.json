@@ -249,7 +249,7 @@
     "time": 3974,
     "timeDay": 405,
     "timeWeek": 1943,
-    "timeMonth": 1511,
+    "timeMonth": 1526,
     "timeYear": 4453,
     "dailyMinutesDown": {
       "2024-07-11": 257,
@@ -401,18 +401,19 @@
     "url": "https://simple-api-words.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/simple-api-words.onrender.com.ico",
     "slug": "api-words",
-    "status": "up",
-    "uptime": "86.90%",
-    "uptimeDay": "95.50%",
+    "status": "down",
+    "uptime": "86.91%",
+    "uptimeDay": "95.88%",
     "uptimeWeek": "97.26%",
     "uptimeMonth": "42.63%",
     "uptimeYear": "80.23%",
-    "time": 3731,
+    "time": 3734,
     "timeDay": 489,
     "timeWeek": 1074,
     "timeMonth": 1983,
     "timeYear": 4398,
     "dailyMinutesDown": {
+      "2024-07-12": 0,
       "2024-07-11": 65,
       "2024-07-10": 18,
       "2024-07-09": 17,
@@ -544,8 +545,7 @@
       "2024-02-08": 79,
       "2024-02-07": 46,
       "2024-02-06": 37,
-      "2024-02-05": 19,
-      "2024-02-04": 16
+      "2024-02-05": 19
     }
   }
 ]
