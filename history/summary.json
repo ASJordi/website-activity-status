@@ -65,18 +65,19 @@
     "url": "https://api-url-zgau.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api-url-zgau.onrender.com.ico",
     "slug": "url-shortener-api",
-    "status": "up",
-    "uptime": "84.26%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "58.45%",
+    "status": "down",
+    "uptime": "84.27%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "59.57%",
     "uptimeMonth": "39.82%",
-    "uptimeYear": "75.20%",
-    "time": 3824,
+    "uptimeYear": "75.21%",
+    "time": 3827,
     "timeDay": 404,
     "timeWeek": 1819,
     "timeMonth": 862,
     "timeYear": 4348,
     "dailyMinutesDown": {
+      "2024-08-05": 1,
       "2024-08-02": 25,
       "2024-08-01": 123,
       "2024-07-31": 1440,
@@ -225,7 +226,7 @@
       "2024-02-06": 69,
       "2024-02-05": 36,
       "2024-02-04": 117,
-      "2024-02-02": 61
+      "2024-02-02": 17
     }
   },
   {
@@ -254,14 +255,14 @@
     "status": "up",
     "uptime": "82.50%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "58.64%",
+    "uptimeWeek": "59.77%",
     "uptimeMonth": "39.34%",
     "uptimeYear": "72.43%",
     "time": 4069,
-    "timeDay": 699,
+    "timeDay": 1126,
     "timeWeek": 1015,
-    "timeMonth": 1468,
-    "timeYear": 4289,
+    "timeMonth": 1483,
+    "timeYear": 4267,
     "dailyMinutesDown": {
       "2024-08-03": 21,
       "2024-08-01": 108,
@@ -434,17 +435,16 @@
     "slug": "api-words",
     "status": "up",
     "uptime": "84.31%",
-    "uptimeDay": "97.57%",
-    "uptimeWeek": "57.87%",
-    "uptimeMonth": "39.55%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "59.12%",
+    "uptimeMonth": "39.58%",
     "uptimeYear": "75.28%",
     "time": 3826,
     "timeDay": 1134,
     "timeWeek": 2845,
     "timeMonth": 1402,
-    "timeYear": 4289,
+    "timeYear": 4293,
     "dailyMinutesDown": {
-      "2024-08-05": 12,
       "2024-08-04": 23,
       "2024-08-03": 36,
       "2024-08-02": 18,
@@ -596,7 +596,8 @@
       "2024-02-16": 16,
       "2024-02-14": 21,
       "2024-02-11": 37,
-      "2024-02-10": 53
+      "2024-02-10": 53,
+      "2024-02-08": 41
     }
   }
 ]
