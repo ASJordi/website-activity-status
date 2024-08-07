@@ -67,17 +67,16 @@
     "slug": "url-shortener-api",
     "status": "up",
     "uptime": "84.31%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "83.82%",
-    "uptimeMonth": "39.90%",
-    "uptimeYear": "75.21%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "84.62%",
+    "uptimeMonth": "39.91%",
+    "uptimeYear": "75.20%",
     "time": 3836,
     "timeDay": 219,
     "timeWeek": 1623,
     "timeMonth": 890,
     "timeYear": 4340,
     "dailyMinutesDown": {
-      "2024-08-06": 3,
       "2024-08-02": 25,
       "2024-08-01": 123,
       "2024-07-31": 1440,
@@ -226,7 +225,7 @@
       "2024-02-06": 69,
       "2024-02-05": 36,
       "2024-02-04": 117,
-      "2024-02-02": 17
+      "2024-02-02": 61
     }
   },
   {
@@ -255,7 +254,7 @@
     "status": "up",
     "uptime": "82.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "84.04%",
+    "uptimeWeek": "84.81%",
     "uptimeMonth": "39.46%",
     "uptimeYear": "72.43%",
     "time": 4086,
@@ -436,7 +435,7 @@
     "status": "up",
     "uptime": "84.36%",
     "uptimeDay": "96.02%",
-    "uptimeWeek": "82.82%",
+    "uptimeWeek": "83.59%",
     "uptimeMonth": "39.74%",
     "uptimeYear": "75.28%",
     "time": 3862,
