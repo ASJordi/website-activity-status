@@ -65,18 +65,19 @@
     "url": "https://api-url-zgau.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api-url-zgau.onrender.com.ico",
     "slug": "url-shortener-api",
-    "status": "up",
+    "status": "down",
     "uptime": "84.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.98%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.20%",
     "uptimeMonth": "40.04%",
-    "uptimeYear": "75.21%",
-    "time": 3863,
+    "uptimeYear": "75.22%",
+    "time": 3866,
     "timeDay": 428,
-    "timeWeek": 1895,
+    "timeWeek": 1553,
     "timeMonth": 1060,
     "timeYear": 4284,
     "dailyMinutesDown": {
+      "2024-08-08": 1,
       "2024-08-07": 39,
       "2024-08-02": 25,
       "2024-08-01": 123,
@@ -225,7 +226,7 @@
       "2024-02-07": 113,
       "2024-02-06": 69,
       "2024-02-05": 36,
-      "2024-02-04": 117
+      "2024-02-04": 60
     }
   },
   {
@@ -253,17 +254,16 @@
     "slug": "weather-app-api",
     "status": "up",
     "uptime": "82.61%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "39.53%",
-    "uptimeYear": "72.44%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "39.56%",
+    "uptimeYear": "72.43%",
     "time": 4126,
     "timeDay": 4429,
     "timeWeek": 2165,
-    "timeMonth": 1898,
+    "timeMonth": 1647,
     "timeYear": 4258,
     "dailyMinutesDown": {
-      "2024-08-08": 13,
       "2024-08-07": 20,
       "2024-08-03": 21,
       "2024-08-01": 108,
@@ -425,7 +425,7 @@
       "2024-01-26": 1440,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
-      "2024-01-23": 436
+      "2024-01-23": 472
     }
   },
   {
@@ -434,7 +434,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/simple-api-words.onrender.com.ico",
     "slug": "api-words",
     "status": "up",
-    "uptime": "84.40%",
+    "uptime": "84.41%",
     "uptimeDay": "97.83%",
     "uptimeWeek": "98.36%",
     "uptimeMonth": "39.78%",
@@ -442,8 +442,8 @@
     "time": 3869,
     "timeDay": 485,
     "timeWeek": 3274,
-    "timeMonth": 1808,
-    "timeYear": 4232,
+    "timeMonth": 1831,
+    "timeYear": 4213,
     "dailyMinutesDown": {
       "2024-08-08": 31,
       "2024-08-06": 57,
