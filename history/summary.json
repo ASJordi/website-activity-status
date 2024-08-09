@@ -66,7 +66,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-url-zgau.onrender.com.ico",
     "slug": "url-shortener-api",
     "status": "up",
-    "uptime": "84.38%",
+    "uptime": "84.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "40.15%",
@@ -251,19 +251,19 @@
     "url": "https://weather-app-backend-y96o.onrender.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/weather-app-backend-y96o.onrender.com.ico",
     "slug": "weather-app-api",
-    "status": "up",
-    "uptime": "82.64%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.43%",
+    "status": "down",
+    "uptime": "84.08%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.42%",
     "uptimeMonth": "39.56%",
-    "uptimeYear": "72.43%",
-    "time": 4137,
+    "uptimeYear": "74.72%",
+    "time": 4140,
     "timeDay": 210,
     "timeWeek": 2352,
     "timeMonth": 1683,
     "timeYear": 4227,
     "dailyMinutesDown": {
-      "2024-08-09": 16,
+      "2024-08-09": 17,
       "2024-08-07": 20,
       "2024-08-03": 21,
       "2024-08-01": 108,
@@ -416,16 +416,7 @@
       "2024-02-05": 25,
       "2024-02-04": 23,
       "2024-02-03": 19,
-      "2024-02-01": 105,
-      "2024-01-31": 1440,
-      "2024-01-30": 1440,
-      "2024-01-29": 1440,
-      "2024-01-28": 1440,
-      "2024-01-27": 1440,
-      "2024-01-26": 1440,
-      "2024-01-25": 1440,
-      "2024-01-24": 1440,
-      "2024-01-23": 436
+      "2024-02-01": 23
     }
   },
   {
@@ -435,9 +426,9 @@
     "slug": "api-words",
     "status": "up",
     "uptime": "84.43%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "39.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "39.82%",
     "uptimeYear": "75.28%",
     "time": 3879,
     "timeDay": 161,
@@ -445,7 +436,6 @@
     "timeMonth": 1882,
     "timeYear": 4190,
     "dailyMinutesDown": {
-      "2024-08-09": 10,
       "2024-08-08": 31,
       "2024-08-06": 57,
       "2024-08-04": 23,
@@ -597,7 +587,8 @@
       "2024-02-19": 46,
       "2024-02-18": 23,
       "2024-02-16": 16,
-      "2024-02-14": 21
+      "2024-02-14": 21,
+      "2024-02-11": 22
     }
   }
 ]
