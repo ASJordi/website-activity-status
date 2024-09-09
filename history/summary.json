@@ -8,7 +8,7 @@
     "uptime": "95.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "35.03%",
+    "uptimeMonth": "34.98%",
     "uptimeYear": "94.56%",
     "time": 123,
     "timeDay": 168,
@@ -16,7 +16,7 @@
     "timeMonth": 134,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2024-09-09": 655,
+      "2024-09-09": 679,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
@@ -50,7 +50,7 @@
     "uptime": "95.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "35.03%",
+    "uptimeMonth": "34.98%",
     "uptimeYear": "94.58%",
     "time": 158,
     "timeDay": 94,
@@ -58,7 +58,7 @@
     "timeMonth": 145,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2024-09-09": 655,
+      "2024-09-09": 679,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
       "2024-09-06": 1440,
@@ -108,18 +108,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-url-zgau.onrender.com.ico",
     "slug": "url-shortener-api",
     "status": "up",
-    "uptime": "82.29%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "96.67%",
-    "uptimeMonth": "40.52%",
-    "uptimeYear": "70.38%",
+    "uptime": "82.28%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.77%",
+    "uptimeMonth": "40.55%",
+    "uptimeYear": "70.37%",
     "time": 4043,
     "timeDay": 199,
     "timeWeek": 409,
     "timeMonth": 704,
     "timeYear": 3732,
     "dailyMinutesDown": {
-      "2024-09-09": 11,
       "2024-09-06": 41,
       "2024-09-05": 71,
       "2024-09-04": 66,
@@ -286,7 +285,7 @@
       "2024-02-23": 519,
       "2024-02-22": 28,
       "2024-02-21": 35,
-      "2024-02-20": 22
+      "2024-02-20": 68
     }
   },
   {
@@ -312,18 +311,19 @@
     "url": "https://weather-app-backend-y96o.onrender.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/weather-app-backend-y96o.onrender.com.ico",
     "slug": "weather-app-api",
-    "status": "up",
-    "uptime": "82.00%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "82.01%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.25%",
     "uptimeMonth": "40.94%",
-    "uptimeYear": "69.90%",
+    "uptimeYear": "69.91%",
     "time": 4007,
     "timeDay": 244,
     "timeWeek": 897,
     "timeMonth": 720,
     "timeYear": 3807,
     "dailyMinutesDown": {
+      "2024-09-09": 0,
       "2024-09-07": 32,
       "2024-09-06": 23,
       "2024-09-05": 44,
@@ -492,7 +492,7 @@
       "2024-02-20": 20,
       "2024-02-19": 43,
       "2024-02-17": 37,
-      "2024-02-16": 40
+      "2024-02-16": 18
     }
   },
   {
