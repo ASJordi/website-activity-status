@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/asjordi.dev.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "88.30%",
+    "uptime": "88.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 143,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2024-10-14": 292,
+      "2024-10-14": 337,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
@@ -86,14 +86,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "85.06%",
+    "uptimeYear": "85.05%",
     "time": 155,
     "timeDay": 106,
     "timeWeek": 133,
     "timeMonth": 118,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2024-10-14": 292,
+      "2024-10-14": 338,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
@@ -587,16 +587,16 @@
     "url": "https://simple-api-words.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/simple-api-words.onrender.com.ico",
     "slug": "api-words",
-    "status": "up",
-    "uptime": "81.71%",
-    "uptimeDay": "93.46%",
-    "uptimeWeek": "97.38%",
-    "uptimeMonth": "44.89%",
+    "status": "down",
+    "uptime": "81.72%",
+    "uptimeDay": "93.43%",
+    "uptimeWeek": "97.37%",
+    "uptimeMonth": "44.94%",
     "uptimeYear": "67.68%",
-    "time": 3529,
+    "time": 3532,
     "timeDay": 635,
     "timeWeek": 1576,
-    "timeMonth": 1279,
+    "timeMonth": 1294,
     "timeYear": 3225,
     "dailyMinutesDown": {
       "2024-10-14": 94,
@@ -780,8 +780,7 @@
       "2024-03-23": 1440,
       "2024-03-22": 1440,
       "2024-03-21": 1184,
-      "2024-03-20": 99,
-      "2024-03-19": 18
+      "2024-03-20": 99
     }
   }
 ]
