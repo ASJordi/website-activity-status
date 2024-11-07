@@ -34,7 +34,7 @@ sites:
       - ASJordi
 
   - name: API Words
-    url: https://simple-api-words.onrender.com
+    url: https://words.asjordi.dev
     assignees:
       - ASJordi
 
