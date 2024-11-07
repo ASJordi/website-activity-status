@@ -16,7 +16,7 @@
     "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2024-11-07": 1013,
+      "2024-11-07": 1036,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
@@ -117,7 +117,7 @@
     "timeMonth": 118,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2024-11-07": 1013,
+      "2024-11-07": 1036,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
@@ -226,11 +226,11 @@
     "status": "up",
     "uptime": "84.10%",
     "uptimeDay": "95.28%",
-    "uptimeWeek": "92.23%",
+    "uptimeWeek": "92.46%",
     "uptimeMonth": "43.37%",
     "uptimeYear": "70.83%",
     "time": 2874,
-    "timeDay": 710,
+    "timeDay": 808,
     "timeWeek": 1529,
     "timeMonth": 810,
     "timeYear": 2634,
@@ -422,18 +422,19 @@
     "url": "https://weather-app-backend-y96o.onrender.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/weather-app-backend-y96o.onrender.com.ico",
     "slug": "weather-app-api",
-    "status": "up",
-    "uptime": "83.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.00%",
+    "status": "down",
+    "uptime": "83.83%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "92.23%",
     "uptimeMonth": "43.02%",
-    "uptimeYear": "70.32%",
-    "time": 3355,
+    "uptimeYear": "70.33%",
+    "time": 3337,
     "timeDay": 1136,
     "timeWeek": 4690,
     "timeMonth": 2477,
     "timeYear": 3076,
     "dailyMinutesDown": {
+      "2024-11-07": 0,
       "2024-11-06": 44,
       "2024-11-05": 25,
       "2024-11-04": 132,
@@ -596,8 +597,7 @@
       "2024-05-13": 614,
       "2024-05-09": 23,
       "2024-05-07": 16,
-      "2024-05-06": 72,
-      "2024-05-05": 15
+      "2024-05-06": 72
     }
   },
   {
@@ -607,9 +607,9 @@
     "slug": "api-words",
     "status": "up",
     "uptime": "81.47%",
-    "uptimeDay": "97.17%",
-    "uptimeWeek": "91.43%",
-    "uptimeMonth": "43.11%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "91.75%",
+    "uptimeMonth": "43.13%",
     "uptimeYear": "66.01%",
     "time": 3495,
     "timeDay": 4982,
@@ -617,7 +617,7 @@
     "timeMonth": 1491,
     "timeYear": 3052,
     "dailyMinutesDown": {
-      "2024-11-07": 41,
+      "2024-11-07": 31,
       "2024-11-06": 47,
       "2024-11-05": 34,
       "2024-11-04": 120,
@@ -803,7 +803,8 @@
       "2024-04-14": 1440,
       "2024-04-13": 642,
       "2024-04-12": 20,
-      "2024-04-11": 17
+      "2024-04-11": 17,
+      "2024-04-09": 31
     }
   }
 ]
