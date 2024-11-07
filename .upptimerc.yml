@@ -40,7 +40,6 @@ sites:
 
 status-website:
   name: Website Activity Status
-  cname: up.asjordi.dev # Custom CNAME
   logoUrl: https://raw.githubusercontent.com/ASJordi/website-activity-status/master/assets/status.png
   favicon: https://raw.githubusercontent.com/ASJordi/website-activity-status/master/assets/status.png
   theme: night
