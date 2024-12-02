@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/asjordi.dev.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "84.65%",
+    "uptime": "84.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.50%",
+    "uptimeMonth": "83.74%",
     "uptimeYear": "78.30%",
     "time": 123,
     "timeDay": 79,
@@ -109,7 +109,7 @@
     "uptime": "84.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.50%",
+    "uptimeMonth": "83.74%",
     "uptimeYear": "78.32%",
     "time": 150,
     "timeDay": 129,
@@ -225,9 +225,9 @@
     "slug": "url-shortener-api",
     "status": "up",
     "uptime": "88.02%",
-    "uptimeDay": "95.48%",
-    "uptimeWeek": "23.46%",
-    "uptimeMonth": "57.85%",
+    "uptimeDay": "96.22%",
+    "uptimeWeek": "24.63%",
+    "uptimeMonth": "57.87%",
     "uptimeYear": "77.19%",
     "time": 2560,
     "timeDay": 3856,
@@ -235,7 +235,7 @@
     "timeMonth": 1144,
     "timeYear": 2438,
     "dailyMinutesDown": {
-      "2024-12-02": 66,
+      "2024-12-02": 55,
       "2024-12-01": 146,
       "2024-11-30": 1440,
       "2024-11-29": 1440,
@@ -367,7 +367,7 @@
       "2024-07-07": 51,
       "2024-07-05": 38,
       "2024-07-04": 40,
-      "2024-07-03": 18
+      "2024-07-03": 44
     }
   },
   {
@@ -393,12 +393,12 @@
     "url": "https://weather-app-backend-y96o.onrender.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/weather-app-backend-y96o.onrender.com.ico",
     "slug": "weather-app-api",
-    "status": "up",
-    "uptime": "85.52%",
-    "uptimeDay": "97.62%",
-    "uptimeWeek": "23.50%",
+    "status": "down",
+    "uptime": "85.53%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "24.56%",
     "uptimeMonth": "57.82%",
-    "uptimeYear": "72.44%",
+    "uptimeYear": "72.45%",
     "time": 3011,
     "timeDay": 945,
     "timeWeek": 788,
@@ -558,8 +558,7 @@
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 83,
-      "2024-06-12": 51,
-      "2024-06-11": 22
+      "2024-06-12": 51
     }
   },
   {
