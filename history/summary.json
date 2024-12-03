@@ -8,7 +8,7 @@
     "uptime": "84.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.38%",
+    "uptimeMonth": "86.61%",
     "uptimeYear": "78.30%",
     "time": 123,
     "timeDay": 118,
@@ -109,7 +109,7 @@
     "uptime": "84.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.38%",
+    "uptimeMonth": "86.61%",
     "uptimeYear": "78.32%",
     "time": 150,
     "timeDay": 97,
@@ -225,17 +225,17 @@
     "slug": "url-shortener-api",
     "status": "up",
     "uptime": "88.03%",
-    "uptimeDay": "97.96%",
-    "uptimeWeek": "35.77%",
-    "uptimeMonth": "57.84%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "36.91%",
+    "uptimeMonth": "57.86%",
     "uptimeYear": "77.19%",
     "time": 2557,
     "timeDay": 3585,
     "timeWeek": 2691,
-    "timeMonth": 1426,
-    "timeYear": 2446,
+    "timeMonth": 1441,
+    "timeYear": 2449,
     "dailyMinutesDown": {
-      "2024-12-03": 30,
+      "2024-12-03": 19,
       "2024-12-02": 55,
       "2024-12-01": 146,
       "2024-11-30": 1440,
@@ -367,7 +367,8 @@
       "2024-07-08": 49,
       "2024-07-07": 51,
       "2024-07-05": 38,
-      "2024-07-04": 40
+      "2024-07-04": 40,
+      "2024-07-03": 18
     }
   },
   {
@@ -393,16 +394,16 @@
     "url": "https://weather-app-backend-y96o.onrender.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/weather-app-backend-y96o.onrender.com.ico",
     "slug": "weather-app-api",
-    "status": "up",
-    "uptime": "85.53%",
-    "uptimeDay": "90.70%",
-    "uptimeWeek": "34.67%",
+    "status": "down",
+    "uptime": "85.54%",
+    "uptimeDay": "90.68%",
+    "uptimeWeek": "35.70%",
     "uptimeMonth": "57.52%",
     "uptimeYear": "72.43%",
     "time": 2993,
     "timeDay": 716,
     "timeWeek": 799,
-    "timeMonth": 2423,
+    "timeMonth": 2449,
     "timeYear": 2716,
     "dailyMinutesDown": {
       "2024-12-03": 134,
@@ -558,8 +559,7 @@
       "2024-06-16": 1440,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
-      "2024-06-13": 83,
-      "2024-06-12": 17
+      "2024-06-13": 83
     }
   },
   {
