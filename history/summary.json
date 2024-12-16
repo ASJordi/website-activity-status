@@ -106,7 +106,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/links.asjordi.dev.ico",
     "slug": "links",
     "status": "down",
-    "uptime": "85.05%",
+    "uptime": "85.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -394,9 +394,9 @@
     "url": "https://weather-app-backend-y96o.onrender.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/weather-app-backend-y96o.onrender.com.ico",
     "slug": "weather-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "88.20%",
-    "uptimeDay": "98.88%",
+    "uptimeDay": "98.87%",
     "uptimeWeek": "97.74%",
     "uptimeMonth": "57.84%",
     "uptimeYear": "77.11%",
@@ -404,8 +404,9 @@
     "timeDay": 11242,
     "timeWeek": 9556,
     "timeMonth": 4684,
-    "timeYear": 2926,
+    "timeYear": 2929,
     "dailyMinutesDown": {
+      "2024-12-16": 0,
       "2024-12-15": 16,
       "2024-12-14": 32,
       "2024-12-13": 97,
@@ -539,8 +540,7 @@
       "2024-07-14": 1440,
       "2024-07-13": 21,
       "2024-07-12": 38,
-      "2024-07-11": 257,
-      "2024-07-10": 16
+      "2024-07-11": 257
     }
   },
   {
@@ -549,7 +549,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/words.asjordi.dev.ico",
     "slug": "api-words",
     "status": "down",
-    "uptime": "82.47%",
+    "uptime": "82.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
