@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/asjordi.dev.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "85.81%",
+    "uptime": "85.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -223,11 +223,11 @@
     "url": "https://api-url-zgau.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api-url-zgau.onrender.com.ico",
     "slug": "url-shortener-api",
-    "status": "up",
+    "status": "down",
     "uptime": "87.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "71.68%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "71.67%",
     "uptimeYear": "74.86%",
     "time": 2356,
     "timeDay": 623,
@@ -235,6 +235,7 @@
     "timeMonth": 1650,
     "timeYear": 2263,
     "dailyMinutesDown": {
+      "2025-01-14": 1,
       "2025-01-03": 26,
       "2025-01-01": 73,
       "2024-12-31": 1440,
@@ -377,8 +378,7 @@
       "2024-07-14": 1440,
       "2024-07-13": 21,
       "2024-07-12": 32,
-      "2024-07-11": 35,
-      "2024-07-10": 23
+      "2024-07-11": 35
     }
   },
   {
@@ -533,7 +533,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/words.asjordi.dev.ico",
     "slug": "api-words",
     "status": "down",
-    "uptime": "83.16%",
+    "uptime": "83.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
