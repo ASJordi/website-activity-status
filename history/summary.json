@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/asjordi.dev.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "86.66%",
+    "uptime": "86.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -379,18 +379,20 @@
     "url": "https://weather-app-nodejs.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/weather-app-nodejs.netlify.app.ico",
     "slug": "weather-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 110,
-    "timeWeek": 159,
-    "timeMonth": 148,
+    "timeDay": 150,
+    "timeWeek": 163,
+    "timeMonth": 149,
     "timeYear": 145,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-18": 1
+    }
   },
   {
     "name": "Weather App API",
