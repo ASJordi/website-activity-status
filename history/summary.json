@@ -223,11 +223,11 @@
     "url": "https://api-url-zgau.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api-url-zgau.onrender.com.ico",
     "slug": "url-shortener-api",
-    "status": "up",
-    "uptime": "92.05%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "92.06%",
+    "uptimeDay": "99.94%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "67.76%",
+    "uptimeMonth": "67.75%",
     "uptimeYear": "81.96%",
     "time": 1529,
     "timeDay": 436,
@@ -235,6 +235,7 @@
     "timeMonth": 1215,
     "timeYear": 1318,
     "dailyMinutesDown": {
+      "2025-04-16": 1,
       "2025-04-14": 18,
       "2025-04-08": 77,
       "2025-04-07": 48,
@@ -359,7 +360,7 @@
       "2024-10-11": 90,
       "2024-10-10": 69,
       "2024-10-05": 19,
-      "2024-10-04": 54
+      "2024-10-04": 24
     }
   },
   {
@@ -520,7 +521,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "66.69%",
+    "uptimeYear": "66.72%",
     "time": 1769,
     "timeDay": 145,
     "timeWeek": 146,
