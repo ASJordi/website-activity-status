@@ -223,18 +223,19 @@
     "url": "https://api-url-zgau.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api-url-zgau.onrender.com.ico",
     "slug": "url-shortener-api",
-    "status": "up",
+    "status": "down",
     "uptime": "92.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "69.89%",
-    "uptimeMonth": "75.73%",
-    "uptimeYear": "82.75%",
-    "time": 1293,
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "73.37%",
+    "uptimeMonth": "75.72%",
+    "uptimeYear": "82.76%",
+    "time": 1294,
     "timeDay": 1132,
     "timeWeek": 2368,
     "timeMonth": 1185,
-    "timeYear": 1096,
+    "timeYear": 1097,
     "dailyMinutesDown": {
+      "2025-06-06": 2,
       "2025-06-04": 58,
       "2025-06-02": 27,
       "2025-06-01": 120,
@@ -360,7 +361,7 @@
       "2024-11-11": 19,
       "2024-11-10": 24,
       "2024-11-09": 51,
-      "2024-11-07": 54
+      "2024-11-07": 38
     }
   },
   {
@@ -386,18 +387,19 @@
     "url": "https://weather-app-backend-y96o.onrender.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/weather-app-backend-y96o.onrender.com.ico",
     "slug": "weather-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "94.25%",
-    "uptimeDay": "97.21%",
-    "uptimeWeek": "69.61%",
+    "uptimeDay": "97.19%",
+    "uptimeWeek": "73.10%",
     "uptimeMonth": "75.80%",
-    "uptimeYear": "86.13%",
-    "time": 2766,
+    "uptimeYear": "86.14%",
+    "time": 2769,
     "timeDay": 641,
     "timeWeek": 2190,
-    "timeMonth": 1896,
+    "timeMonth": 1927,
     "timeYear": 2671,
     "dailyMinutesDown": {
+      "2025-06-06": 0,
       "2025-06-05": 40,
       "2025-06-04": 30,
       "2025-06-03": 24,
@@ -516,8 +518,7 @@
       "2024-12-14": 32,
       "2024-12-13": 97,
       "2024-12-12": 82,
-      "2024-12-05": 36,
-      "2024-12-04": 23
+      "2024-12-05": 36
     }
   },
   {
@@ -535,7 +536,7 @@
     "timeDay": 348,
     "timeWeek": 255,
     "timeMonth": 246,
-    "timeYear": 1112,
+    "timeYear": 1114,
     "dailyMinutesDown": {
       "2024-11-07": 74,
       "2024-11-06": 47,
