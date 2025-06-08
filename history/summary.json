@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "78.31%",
-    "time": 132,
-    "timeDay": 172,
-    "timeWeek": 176,
+    "time": 133,
+    "timeDay": 199,
+    "timeWeek": 181,
     "timeMonth": 191,
-    "timeYear": 140,
+    "timeYear": 141,
     "dailyMinutesDown": {
       "2024-11-07": 1163,
       "2024-11-06": 1440,
@@ -110,10 +110,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "78.32%",
-    "time": 146,
-    "timeDay": 108,
-    "timeWeek": 234,
-    "timeMonth": 213,
+    "time": 145,
+    "timeDay": 179,
+    "timeWeek": 236,
+    "timeMonth": 209,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2024-11-07": 1163,
@@ -210,9 +210,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 155,
-    "timeDay": 45,
-    "timeWeek": 128,
-    "timeMonth": 268,
+    "timeDay": 158,
+    "timeWeek": 143,
+    "timeMonth": 255,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2025-02-18": 32
@@ -226,13 +226,13 @@
     "status": "up",
     "uptime": "92.86%",
     "uptimeDay": "95.93%",
-    "uptimeWeek": "96.51%",
+    "uptimeWeek": "97.77%",
     "uptimeMonth": "75.55%",
     "uptimeYear": "82.76%",
     "time": 1300,
-    "timeDay": 815,
-    "timeWeek": 1978,
-    "timeMonth": 1178,
+    "timeDay": 194,
+    "timeWeek": 1970,
+    "timeMonth": 1146,
     "timeYear": 1101,
     "dailyMinutesDown": {
       "2025-06-07": 59,
@@ -375,10 +375,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 172,
-    "timeWeek": 175,
-    "timeMonth": 175,
-    "timeYear": 159,
+    "timeDay": 54,
+    "timeWeek": 159,
+    "timeMonth": 168,
+    "timeYear": 158,
     "dailyMinutesDown": {}
   },
   {
@@ -388,17 +388,17 @@
     "slug": "weather-app-api",
     "status": "up",
     "uptime": "94.26%",
-    "uptimeDay": "97.60%",
-    "uptimeWeek": "96.26%",
-    "uptimeMonth": "75.63%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "97.63%",
+    "uptimeMonth": "75.66%",
     "uptimeYear": "86.14%",
     "time": 2758,
-    "timeDay": 788,
-    "timeWeek": 1885,
-    "timeMonth": 1878,
+    "timeDay": 460,
+    "timeWeek": 1883,
+    "timeMonth": 1668,
     "timeYear": 2665,
     "dailyMinutesDown": {
-      "2025-06-07": 35,
+      "2025-06-07": 24,
       "2025-06-06": 37,
       "2025-06-05": 40,
       "2025-06-04": 30,
@@ -517,7 +517,7 @@
       "2024-12-15": 16,
       "2024-12-14": 32,
       "2024-12-13": 97,
-      "2024-12-12": 16
+      "2024-12-12": 58
     }
   },
   {
@@ -532,9 +532,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "75.93%",
     "time": 1374,
-    "timeDay": 186,
-    "timeWeek": 260,
-    "timeMonth": 241,
+    "timeDay": 184,
+    "timeWeek": 255,
+    "timeMonth": 234,
     "timeYear": 1117,
     "dailyMinutesDown": {
       "2024-11-07": 74,
@@ -671,8 +671,7 @@
       "2024-06-14": 1440,
       "2024-06-13": 102,
       "2024-06-11": 42,
-      "2024-06-10": 150,
-      "2024-06-08": 26
+      "2024-06-10": 150
     }
   }
 ]
