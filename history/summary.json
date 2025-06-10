@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/asjordi.dev.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "88.78%",
+    "uptime": "88.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -105,7 +105,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/links.asjordi.dev.ico",
     "slug": "links",
     "status": "up",
-    "uptime": "88.79%",
+    "uptime": "88.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -225,17 +225,17 @@
     "slug": "url-shortener-api",
     "status": "up",
     "uptime": "92.88%",
-    "uptimeDay": "87.54%",
-    "uptimeWeek": "96.89%",
-    "uptimeMonth": "75.19%",
-    "uptimeYear": "82.74%",
+    "uptimeDay": "88.50%",
+    "uptimeWeek": "97.03%",
+    "uptimeMonth": "75.22%",
+    "uptimeYear": "82.73%",
     "time": 1290,
     "timeDay": 4805,
     "timeWeek": 2983,
     "timeMonth": 1451,
-    "timeYear": 1120,
+    "timeYear": 1121,
     "dailyMinutesDown": {
-      "2025-06-10": 180,
+      "2025-06-10": 166,
       "2025-06-07": 59,
       "2025-06-06": 17,
       "2025-06-04": 58,
@@ -359,7 +359,7 @@
       "2024-11-15": 126,
       "2024-11-14": 21,
       "2024-11-13": 49,
-      "2024-11-12": 36
+      "2024-11-12": 55
     }
   },
   {
@@ -385,12 +385,12 @@
     "url": "https://weather-app-backend-y96o.onrender.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/weather-app-backend-y96o.onrender.com.ico",
     "slug": "weather-app-api",
-    "status": "up",
-    "uptime": "94.28%",
-    "uptimeDay": "96.39%",
+    "status": "down",
+    "uptime": "94.29%",
+    "uptimeDay": "96.37%",
     "uptimeWeek": "97.72%",
     "uptimeMonth": "75.54%",
-    "uptimeYear": "86.14%",
+    "uptimeYear": "86.15%",
     "time": 2764,
     "timeDay": 751,
     "timeWeek": 1832,
@@ -516,8 +516,7 @@
       "2024-12-18": 47,
       "2024-12-16": 23,
       "2024-12-15": 16,
-      "2024-12-14": 32,
-      "2024-12-13": 31
+      "2024-12-14": 32
     }
   },
   {
