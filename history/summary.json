@@ -16,7 +16,7 @@
     "timeMonth": 133,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2025-08-18": 270,
+      "2025-08-18": 302,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
@@ -147,14 +147,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.08%",
+    "uptimeYear": "68.07%",
     "time": 147,
     "timeDay": 131,
     "timeWeek": 140,
     "timeMonth": 123,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2025-08-18": 270,
+      "2025-08-18": 302,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
@@ -300,10 +300,10 @@
     "url": "https://api-url-zgau.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api-url-zgau.onrender.com.ico",
     "slug": "url-shortener-api",
-    "status": "up",
+    "status": "down",
     "uptime": "96.25%",
-    "uptimeDay": "96.22%",
-    "uptimeWeek": "99.03%",
+    "uptimeDay": "96.10%",
+    "uptimeWeek": "99.01%",
     "uptimeMonth": "81.58%",
     "uptimeYear": "90.20%",
     "time": 1260,
@@ -312,7 +312,7 @@
     "timeMonth": 1922,
     "timeYear": 1298,
     "dailyMinutesDown": {
-      "2025-08-18": 39,
+      "2025-08-18": 41,
       "2025-08-17": 15,
       "2025-08-13": 21,
       "2025-08-12": 22,
@@ -407,8 +407,7 @@
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
-      "2025-03-22": 617,
-      "2025-03-21": 20
+      "2025-03-22": 617
     }
   },
   {
@@ -434,18 +433,19 @@
     "url": "https://weather-app-backend-y96o.onrender.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/weather-app-backend-y96o.onrender.com.ico",
     "slug": "weather-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "96.25%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.89%",
     "uptimeMonth": "81.31%",
     "uptimeYear": "90.20%",
-    "time": 2718,
+    "time": 2720,
     "timeDay": 253,
     "timeWeek": 4396,
     "timeMonth": 3208,
     "timeYear": 2873,
     "dailyMinutesDown": {
+      "2025-08-18": 0,
       "2025-08-14": 28,
       "2025-08-13": 20,
       "2025-08-11": 64,
@@ -551,8 +551,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 593,
       "2025-03-21": 18,
-      "2025-03-20": 41,
-      "2025-03-18": 17
+      "2025-03-20": 41
     }
   },
   {
@@ -572,7 +571,7 @@
     "timeMonth": 123,
     "timeYear": 728,
     "dailyMinutesDown": {
-      "2025-08-18": 271,
+      "2025-08-18": 303,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
