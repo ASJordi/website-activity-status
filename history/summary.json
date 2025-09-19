@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/asjordi.dev.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "81.63%",
+    "uptime": "81.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "67.39%",
     "time": 145,
-    "timeDay": 273,
-    "timeWeek": 186,
-    "timeMonth": 187,
+    "timeDay": 146,
+    "timeWeek": 185,
+    "timeMonth": 190,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2025-09-18": 889,
+      "2025-09-19": 46,
+      "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
@@ -134,8 +135,7 @@
       "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
-      "2024-09-20": 1440,
-      "2024-09-19": 1440
+      "2024-09-20": 1440
     }
   },
   {
@@ -144,18 +144,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/links.asjordi.dev.ico",
     "slug": "links",
     "status": "down",
-    "uptime": "81.64%",
+    "uptime": "81.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "67.39%",
     "time": 157,
-    "timeDay": 174,
-    "timeWeek": 179,
-    "timeMonth": 314,
+    "timeDay": 75,
+    "timeWeek": 171,
+    "timeMonth": 312,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2025-09-18": 889,
+      "2025-09-19": 46,
+      "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
@@ -273,8 +274,7 @@
       "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
-      "2024-09-20": 1440,
-      "2024-09-19": 1440
+      "2024-09-20": 1440
     }
   },
   {
@@ -288,11 +288,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 186,
-    "timeDay": 184,
-    "timeWeek": 217,
-    "timeMonth": 234,
-    "timeYear": 208,
+    "time": 187,
+    "timeDay": 173,
+    "timeWeek": 166,
+    "timeMonth": 239,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2025-02-18": 32
     }
@@ -304,17 +304,16 @@
     "slug": "url-shortener-api",
     "status": "up",
     "uptime": "96.76%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "80.49%",
-    "uptimeYear": "91.26%",
-    "time": 1361,
-    "timeDay": 9737,
-    "timeWeek": 2475,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "80.52%",
+    "uptimeYear": "91.25%",
+    "time": 1348,
+    "timeDay": 261,
+    "timeWeek": 2295,
     "timeMonth": 1770,
     "timeYear": 1422,
     "dailyMinutesDown": {
-      "2025-09-18": 11,
       "2025-09-15": 19,
       "2025-09-10": 40,
       "2025-09-09": 59,
@@ -411,7 +410,8 @@
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1018,
-      "2025-04-22": 26
+      "2025-04-22": 26,
+      "2025-04-20": 31
     }
   },
   {
@@ -425,10 +425,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 163,
-    "timeDay": 146,
-    "timeWeek": 115,
-    "timeMonth": 181,
+    "time": 164,
+    "timeDay": 166,
+    "timeWeek": 109,
+    "timeMonth": 170,
     "timeYear": 170,
     "dailyMinutesDown": {}
   },
@@ -439,17 +439,17 @@
     "slug": "weather-app-api",
     "status": "up",
     "uptime": "97.44%",
-    "uptimeDay": "96.75%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "80.55%",
-    "uptimeYear": "93.10%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "80.57%",
+    "uptimeYear": "93.09%",
     "time": 2844,
-    "timeDay": 4190,
-    "timeWeek": 5086,
-    "timeMonth": 3245,
+    "timeDay": 3615,
+    "timeWeek": 4944,
+    "timeMonth": 3246,
     "timeYear": 3027,
     "dailyMinutesDown": {
-      "2025-09-18": 47,
+      "2025-09-18": 38,
       "2025-09-16": 19,
       "2025-09-15": 17,
       "2025-09-09": 58,
@@ -543,7 +543,8 @@
       "2025-05-10": 18,
       "2025-05-09": 30,
       "2025-05-05": 32,
-      "2025-05-04": 71
+      "2025-05-04": 71,
+      "2025-05-03": 20
     }
   },
   {
@@ -552,18 +553,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/words.asjordi.dev.ico",
     "slug": "api-words",
     "status": "down",
-    "uptime": "82.18%",
+    "uptime": "82.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "72.97%",
-    "time": 812,
-    "timeDay": 196,
-    "timeWeek": 166,
-    "timeMonth": 166,
+    "time": 811,
+    "timeDay": 163,
+    "timeWeek": 168,
+    "timeMonth": 167,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2025-09-18": 889,
+      "2025-09-19": 46,
+      "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
@@ -676,8 +678,7 @@
       "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
-      "2024-09-20": 1440,
-      "2024-09-19": 1440
+      "2024-09-20": 1440
     }
   }
 ]
