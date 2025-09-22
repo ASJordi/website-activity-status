@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/asjordi.dev.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "81.26%",
+    "uptime": "81.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 191,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2025-09-22": 456,
+      "2025-09-22": 518,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
@@ -144,7 +144,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/links.asjordi.dev.ico",
     "slug": "links",
     "status": "down",
-    "uptime": "81.27%",
+    "uptime": "81.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -155,7 +155,7 @@
     "timeMonth": 307,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2025-09-22": 456,
+      "2025-09-22": 518,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
@@ -302,18 +302,19 @@
     "url": "https://api-url-zgau.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api-url-zgau.onrender.com.ico",
     "slug": "url-shortener-api",
-    "status": "up",
+    "status": "down",
     "uptime": "96.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.66%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.65%",
     "uptimeMonth": "80.72%",
-    "uptimeYear": "91.25%",
-    "time": 1337,
+    "uptimeYear": "91.26%",
+    "time": 1338,
     "timeDay": 18126,
     "timeWeek": 4017,
     "timeMonth": 1798,
     "timeYear": 1448,
     "dailyMinutesDown": {
+      "2025-09-22": 1,
       "2025-09-19": 16,
       "2025-09-15": 19,
       "2025-09-10": 40,
@@ -410,8 +411,7 @@
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
-      "2025-04-24": 1018,
-      "2025-04-22": 26
+      "2025-04-24": 1018
     }
   },
   {
@@ -439,17 +439,16 @@
     "slug": "weather-app-api",
     "status": "up",
     "uptime": "97.45%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "80.67%",
-    "uptimeYear": "93.10%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "80.70%",
+    "uptimeYear": "93.09%",
     "time": 2854,
     "timeDay": 853,
     "timeWeek": 3764,
     "timeMonth": 3477,
     "timeYear": 3040,
     "dailyMinutesDown": {
-      "2025-09-22": 13,
       "2025-09-19": 20,
       "2025-09-18": 38,
       "2025-09-16": 19,
@@ -545,7 +544,7 @@
       "2025-05-10": 18,
       "2025-05-09": 30,
       "2025-05-05": 32,
-      "2025-05-04": 22
+      "2025-05-04": 71
     }
   },
   {
@@ -565,7 +564,7 @@
     "timeMonth": 173,
     "timeYear": 527,
     "dailyMinutesDown": {
-      "2025-09-22": 456,
+      "2025-09-22": 519,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
