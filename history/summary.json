@@ -324,7 +324,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/links.asjordi.dev.ico",
     "slug": "links",
     "status": "up",
-    "uptime": "65.36%",
+    "uptime": "65.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -857,17 +857,17 @@
     "url": "https://words.asjordi.dev",
     "icon": "https://icons.duckduckgo.com/ip3/words.asjordi.dev.ico",
     "slug": "api-words",
-    "status": "down",
-    "uptime": "69.36%",
-    "uptimeDay": "73.46%",
-    "uptimeWeek": "94.66%",
-    "uptimeMonth": "95.26%",
-    "uptimeYear": "17.53%",
-    "time": 631,
-    "timeDay": 8013,
+    "status": "up",
+    "uptime": "69.35%",
+    "uptimeDay": "61.19%",
+    "uptimeWeek": "92.15%",
+    "uptimeMonth": "94.68%",
+    "uptimeYear": "17.49%",
+    "time": 637,
+    "timeDay": 8642,
     "timeWeek": 3459,
-    "timeMonth": 1553,
-    "timeYear": 847,
+    "timeMonth": 1592,
+    "timeYear": 854,
     "dailyMinutesDown": {
       "2025-07-02": 66,
       "2025-07-11": 294,
@@ -1185,7 +1185,7 @@
       "2026-06-21": 97,
       "2026-06-26": 156,
       "2026-06-28": 77,
-      "2026-06-29": 305
+      "2026-06-29": 559
     }
   }
 ]
