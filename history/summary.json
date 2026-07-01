@@ -675,7 +675,7 @@
     "timeDay": 199,
     "timeWeek": 18267,
     "timeMonth": 26079,
-    "timeYear": 5369,
+    "timeYear": 5375,
     "dailyMinutesDown": {
       "2026-01-16": 87,
       "2026-01-19": 132,
@@ -782,7 +782,7 @@
     "timeDay": 198,
     "timeWeek": 18425,
     "timeMonth": 27407,
-    "timeYear": 5845,
+    "timeYear": 5852,
     "dailyMinutesDown": {
       "2026-01-20": 30,
       "2026-01-21": 53,
@@ -858,11 +858,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/words.asjordi.dev.ico",
     "slug": "api-words",
     "status": "down",
-    "uptime": "70.70%",
-    "uptimeDay": "70.41%",
-    "uptimeWeek": "86.60%",
-    "uptimeMonth": "93.41%",
-    "uptimeYear": "17.38%",
+    "uptime": "70.69%",
+    "uptimeDay": "62.06%",
+    "uptimeWeek": "85.41%",
+    "uptimeMonth": "93.13%",
+    "uptimeYear": "17.36%",
     "time": 724,
     "timeDay": 12232,
     "timeWeek": 6416,
@@ -1187,7 +1187,7 @@
       "2026-06-28": 77,
       "2026-06-29": 686,
       "2026-06-30": 432,
-      "2026-07-01": 0
+      "2026-07-01": 121
     }
   }
 ]
