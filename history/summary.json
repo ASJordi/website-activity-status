@@ -857,17 +857,17 @@
     "url": "https://words.asjordi.dev",
     "icon": "https://icons.duckduckgo.com/ip3/words.asjordi.dev.ico",
     "slug": "api-words",
-    "status": "down",
-    "uptime": "70.70%",
-    "uptimeDay": "75.06%",
-    "uptimeWeek": "85.10%",
-    "uptimeMonth": "93.06%",
-    "uptimeYear": "17.35%",
+    "status": "up",
+    "uptime": "70.69%",
+    "uptimeDay": "74.27%",
+    "uptimeWeek": "82.93%",
+    "uptimeMonth": "92.56%",
+    "uptimeYear": "17.31%",
     "time": 779,
-    "timeDay": 18211,
-    "timeWeek": 7982,
-    "timeMonth": 3174,
-    "timeYear": 1051,
+    "timeDay": 15901,
+    "timeWeek": 7532,
+    "timeMonth": 3118,
+    "timeYear": 1049,
     "dailyMinutesDown": {
       "2025-07-02": 66,
       "2025-07-11": 294,
@@ -1187,7 +1187,7 @@
       "2026-06-28": 77,
       "2026-06-29": 686,
       "2026-06-30": 432,
-      "2026-07-01": 151
+      "2026-07-01": 371
     }
   }
 ]
