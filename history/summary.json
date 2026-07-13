@@ -853,9 +853,9 @@
     "slug": "api-words",
     "status": "down",
     "uptime": "70.91%",
-    "uptimeDay": "96.03%",
-    "uptimeWeek": "90.50%",
-    "uptimeMonth": "92.25%",
+    "uptimeDay": "95.26%",
+    "uptimeWeek": "90.38%",
+    "uptimeMonth": "92.23%",
     "uptimeYear": "17.45%",
     "time": 1172,
     "timeDay": 3750,
@@ -1185,7 +1185,7 @@
       "2026-07-09": 274,
       "2026-07-10": 171,
       "2026-07-12": 57,
-      "2026-07-13": 0
+      "2026-07-13": 12
     }
   }
 ]
