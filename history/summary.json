@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.35%",
+    "uptimeYear": "20.36%",
     "time": 161,
     "timeDay": 157,
     "timeWeek": 122,
@@ -319,7 +319,7 @@
     "uptimeDay": "96.79%",
     "uptimeWeek": "99.54%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "20.34%",
+    "uptimeYear": "20.35%",
     "time": 206,
     "timeDay": 5205,
     "timeWeek": 1849,
@@ -658,7 +658,7 @@
     "timeDay": 32348,
     "timeWeek": 29951,
     "timeMonth": 27617,
-    "timeYear": 6315,
+    "timeYear": 6325,
     "dailyMinutesDown": {
       "2026-01-16": 87,
       "2026-01-19": 132,
@@ -840,17 +840,17 @@
     "url": "https://words.asjordi.dev",
     "icon": "https://icons.duckduckgo.com/ip3/words.asjordi.dev.ico",
     "slug": "api-words",
-    "status": "down",
-    "uptime": "72.42%",
-    "uptimeDay": "96.16%",
-    "uptimeWeek": "90.19%",
-    "uptimeMonth": "90.77%",
+    "status": "up",
+    "uptime": "72.41%",
+    "uptimeDay": "92.52%",
+    "uptimeWeek": "89.67%",
+    "uptimeMonth": "90.65%",
     "uptimeYear": "19.03%",
-    "time": 1210,
-    "timeDay": 240,
-    "timeWeek": 1668,
-    "timeMonth": 5808,
-    "timeYear": 1572,
+    "time": 1255,
+    "timeDay": 8991,
+    "timeWeek": 2974,
+    "timeMonth": 6117,
+    "timeYear": 1630,
     "dailyMinutesDown": {
       "2026-05-06": 246,
       "2026-05-05": 1440,
@@ -1173,7 +1173,7 @@
       "2026-07-16": 269,
       "2026-07-17": 117,
       "2026-07-18": 234,
-      "2026-07-19": 0
+      "2026-07-19": 53
     }
   }
 ]
